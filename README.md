@@ -17,6 +17,11 @@ __Next Generation Sequencing__
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
+* [Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/) - FASTQ/A short-reads pre-processing tools
+	* Demultiplexing (fastx\_barcode\_splitter.pl)
+	* Trimming, Clipping
+	* Quality Filtering
+	* Masking
 * [Seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
 	* FASTQ --> FASTA conversion
 	* Nucleotide Composition (Number of A,T,C,G)
