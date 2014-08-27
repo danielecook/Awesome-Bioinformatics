@@ -3,21 +3,40 @@ Awesome-Bioinformatics
 
 A curated list of awesome Bioinformatics software and libraries.
 
+__Next Generation Sequencing__
 
-# Next Generation Sequencing
+* [Sequence Processing](#sequence-processing)
+* [Sequence Alignment](#sequence-alignment)
+* [Variant Calling](#variant-calling)
+* [Variant Prediction](#variant-prediction)
 
-## Pre-processing
 
-* [https://github.com/lh3/seqtk](Seqtk) - Toolkit for processing sequences in FASTA/Q formats.
+## Next Generation Sequencing
 
-## Alignment
+### Sequence Processing 
 
-* [https://github.com/lh3/bwa](BWA) - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences. 
+Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
-## Variant Calling
+* [Seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
+	* FASTQ --> FASTA conversion
+	* Nucleotide Composition (Number of A,T,C,G)
+	* Add point mutations to FASTA
 
-* [https://github.com/samtools/bcftools](htslib/Samtools/BCFTools) - Tools manipulating next-generation sequencing data. __(SNVs/Indels)__
+### Sequence Alignment
 
-## Variant Filtering / QC
+__De Novo Alignment__
 
-## Variant Prediction
+__DNA Resequencing__
+
+* [BWA](https://github.com/lh3/bwa) - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences. 
+
+### Variant Calling
+
+* [samtools/bcftools/htslib](https://github.com/samtools/samtools) - A suite of tools for manipulating next-generation sequencing data.
+	* SNVs
+	* Indels - Called using gapped alignments. 
+
+### Variant Filtering / Quality Control
+
+### Variant Prediction
+
