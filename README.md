@@ -17,6 +17,9 @@ __Next Generation Sequencing__
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
+
+* [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) - A quality control tool for high throughput sequence data.
+	* Series of quality control checks for raw sequence data.
 * [Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/) - FASTQ/A short-reads pre-processing tools
 	* Demultiplexing (fastx\_barcode\_splitter.pl)
 	* Trimming, Clipping
