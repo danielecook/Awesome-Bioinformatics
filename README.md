@@ -42,7 +42,8 @@ __DNA Resequencing__
 
 * [samtools/bcftools/htslib](https://github.com/samtools/samtools) - A suite of tools for manipulating next-generation sequencing data.
 	* SNVs
-	* Indels - Called using gapped alignments. 
+	* Indels - Called using gapped alignments.
+* [freebayes](https://github.com/ekg/freebayes) - Bayesian haplotype-based polymorphism discovery and genotyping.
 
 ### Variant Filtering / Quality Control
 
