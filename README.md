@@ -1,7 +1,7 @@
 Awesome-Bioinformatics
 ======================
 
-A curated list of awesome Bioinformatics software and libraries. Mostly command line based, and all open-source.
+A curated list of awesome Bioinformatics software and libraries. Mostly command line based, and free or open-source.
 
 __Data Processing__
 
