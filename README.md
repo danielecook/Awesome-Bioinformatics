@@ -3,6 +3,10 @@ Awesome-Bioinformatics
 
 A curated list of awesome Bioinformatics software and libraries. Mostly command line based, and all open-source.
 
+__Data Processing__
+
+* [Command Line Utilities](#command-line-utilities)
+
 __Next Generation Sequencing__
 
 * [Sequence Processing](#sequence-processing)
@@ -10,6 +14,13 @@ __Next Generation Sequencing__
 * [Variant Calling](#variant-calling)
 * [Variant Prediction](#variant-prediction)
 
+
+## Data Processing
+
+### Command Line Utilities
+
+* [datamash](http://www.gnu.org/software/datamash/) - Data transformations and statistics. 
+* [Bioinformatics One Liners](https://github.com/stephenturner/oneliners) - Git repo of useful single line commands.
 
 ## Next Generation Sequencing
 
