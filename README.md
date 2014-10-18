@@ -23,8 +23,10 @@ __Next Generation Sequencing__
 
 ### Command Line Utilities
 
-* [datamash](http://www.gnu.org/software/datamash/) - Data transformations and statistics. 
-* [Bioinformatics One Liners](https://github.com/stephenturner/oneliners) - Git repo of useful single line commands.
+| Program                                                                 | Description
+|------------------------------------------------------------------------ | -------------
+| [datamash](http://www.gnu.org/software/datamash/)                       | Data transformations and statistics. 
+| [Bioinformatics One Liners](https://github.com/stephenturner/oneliners) | Git repo of useful single line commands.
 
 ### Python Wrappers
 
