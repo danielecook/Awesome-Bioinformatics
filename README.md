@@ -7,6 +7,10 @@ __Data Processing__
 
 * [Command Line Utilities](#command-line-utilities)
 
+__Python Wrappers__
+
+* [Python Wrappers](#python-wrappers)
+
 __Next Generation Sequencing__
 
 * [Sequence Processing](#sequence-processing)
@@ -21,6 +25,8 @@ __Next Generation Sequencing__
 
 * [datamash](http://www.gnu.org/software/datamash/) - Data transformations and statistics. 
 * [Bioinformatics One Liners](https://github.com/stephenturner/oneliners) - Git repo of useful single line commands.
+
+### Python Wrappers
 
 ## Next Generation Sequencing
 
