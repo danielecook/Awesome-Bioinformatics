@@ -63,9 +63,21 @@ __DNA Resequencing__
 | [samtools/bcftools/htslib](https://github.com/samtools/samtools) | A suite of tools for manipulating next-generation sequencing data.
 | [freebayes](https://github.com/ekg/freebayes) | Bayesian haplotype-based polymorphism discovery and genotyping.
 
+### Variant Simulation
+
+| Program                                                                 | Description
+|:----------------------------------------------------------------------- | :------------
+| [wgsim](https://github.com/lh3/wgsim) | __Comes with samtools!__ - Reads simulator
+| [Bam Surgeon](https://github.com/adamewing/bamsurgeon) | Tools for adding mutations to existing .bam files, used for testing mutation callers.
+
 ### Variant Filtering / Quality Control
 
-### Variant Prediction
+### Variant Prediction/Annotation
+
+| Program                                                                 | Description
+|:----------------------------------------------------------------------- | :------------
+| [SNPeff](http://snpeff.sourceforge.net/) | Genetic variant annotation and effect prediction toolbox. 
+
 
 ### Python Modules
 
@@ -74,5 +86,6 @@ __DNA Resequencing__
 | [pyBedTools](https://github.com/daler/pybedtools)                       | Python wrapper for [bedtools](https://github.com/arq5x/bedtools). 
 | [pysam](https://github.com/pysam-developers/pysam)                      | Python wrapper for [samtools](https://github.com/samtools/samtools).
 | [pyVCF](https://github.com/jamescasbon/PyVCF)                           | A VCF Parser for python.
+| [Biopython](https://github.com/biopython/biopython) | Large suite of bioinformatic utilities.
 
 
