@@ -86,6 +86,7 @@ __DNA Resequencing__
 | [pyBedTools](https://github.com/daler/pybedtools)                       | Python wrapper for [bedtools](https://github.com/arq5x/bedtools). 
 | [pysam](https://github.com/pysam-developers/pysam)                      | Python wrapper for [samtools](https://github.com/samtools/samtools).
 | [pyVCF](https://github.com/jamescasbon/PyVCF)                           | A VCF Parser for python.
+| [cyVCF](https://github.com/arq5x/cyvcf)                                 | A fast Python library for VCF files leveraging Cython for speed. Based off of pyVCF.
 | [Biopython](https://github.com/biopython/biopython) | Large suite of bioinformatic utilities.
 
 
