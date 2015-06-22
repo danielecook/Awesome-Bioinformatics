@@ -25,6 +25,7 @@ __Next Generation Sequencing__
 | [datamash](http://www.gnu.org/software/datamash/)                       | Data transformations and statistics. 
 | [Bioinformatics One Liners](https://github.com/stephenturner/oneliners) | Git repo of useful single line commands.
 | [CSVKit](https://github.com/onyxfish/csvkit) | Utilities for working with CSV/Tab-delimited files.
+| [Bedtools2](https://github.com/arq5x/bedtools2)                         | a swiss army knife for genome arithmetic
 
 ## Next Generation Sequencing
 
