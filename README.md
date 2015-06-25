@@ -58,11 +58,18 @@ __DNA Resequencing__
 
 ### Variant Calling
 
-
 | Program                                                                 | Description
 |:----------------------------------------------------------------------- | :------------
 | [samtools/bcftools/htslib](https://github.com/samtools/samtools) | A suite of tools for manipulating next-generation sequencing data.
 | [freebayes](https://github.com/ekg/freebayes) | Bayesian haplotype-based polymorphism discovery and genotyping.
+
+#### Genomic Traits
+
+__Genomic Traits__ are differences in terms of DNA structure or content observed among populations that may be regulated by genetic variation. For example, telomere length or rDNA copy number.
+
+| Program | Description
+|:----------|:---------------------
+| [Telseq](https://github.com/zd1/telseq) | Telseq is a tool for estimating telomere length from whole genome sequence data.
 
 ### Variant Simulation
 
