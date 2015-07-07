@@ -63,6 +63,15 @@ __DNA Resequencing__
 | [samtools/bcftools/htslib](https://github.com/samtools/samtools) | A suite of tools for manipulating next-generation sequencing data.
 | [freebayes](https://github.com/ekg/freebayes) | Bayesian haplotype-based polymorphism discovery and genotyping.
 
+### VCF File Utilities
+
+| Program                                                                 | Description
+|:----------------------------------------------------------------------- | :------------
+| [vcflib](https://github.com/ekg/vcflib) | A C++ library for parsing and manipulating VCF files.
+| [bcftools](https://github.com/samtools/bcftools) | Set of tools for manipulating vcf files.
+| [vcftools](http://vcftools.sourceforge.net/) | VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst)
+
+
 #### Genomic Traits
 
 __Genomic Traits__ are differences in terms of DNA structure or content observed among populations that may be regulated by genetic variation. For example, telomere length or rDNA copy number.
