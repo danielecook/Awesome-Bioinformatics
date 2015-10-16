@@ -3,21 +3,6 @@ Awesome-Bioinformatics
 
 A curated list of awesome Bioinformatics software and libraries. Mostly command line based, and free or open-source.
 
-__Data Processing__
-
-* [Command Line Utilities](#command-line-utilities)
-
-__Next Generation Sequencing__
-
-* [Pipelines](#pipelines)
-* [Sequence Processing](#sequence-processing)
-* [Sequence Alignment](#sequence-alignment)
-* [Variant Calling](#variant-calling)
-* [Variant Prediction](#variant-prediction)
-* [Python Modules](#python-modules)
-
-__Visualization__
-
 
 
 ## Data Processing
@@ -110,20 +95,20 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 | [cyVCF](https://github.com/arq5x/cyvcf)                                 | A fast Python library for VCF files leveraging Cython for speed. Based off of pyVCF.
 | [Biopython](https://github.com/biopython/biopython) | Large suite of bioinformatic utilities.
 
-### Visualization
+## Visualization
 
-#### Gene Glyph Generation
+### Gene Diagrams
 
-The following tools are useful for highly customizable generation of gene-diagrams or 'glyphs'.
+_Tools for drawing gene diagrams / alignments_
 
-| Program | Description
-|:--------|:----------
-| [scribl](https://github.com/chmille4/Scribl) | javascript library for generating gene glyphs |
+* [scribl](https://github.com/chmille4/Scribl) - javascript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
+* [pileup.js](https://github.com/hammerlab/pileup.js) - javascript library that can be used to generate interactive and highly customizable web-based genome browsers.
 
-#### Genome Browser
+### Genome Browsers
 
-| Program | Description
-|:--------|:----------
-| [IGV](https://www.broadinstitute.org/igv/) | Integrated Genome Browser - Java based browser |
+* [IGV](https://www.broadinstitute.org/igv/) - Java based browser.  Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
+* [pileup.js]
+
+> Integrated Genome Browser - Java based browser |
 
 
