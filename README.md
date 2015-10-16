@@ -107,6 +107,5 @@ The following tools can be used to visualize genomic data or for constructing cu
 * [pileup.js](https://github.com/hammerlab/pileup.js) - javascript library that can be used to generate interactive and highly customizable web-based genome browsers.
 * [scribl](https://github.com/chmille4/Scribl) - javascript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 
-> Integrated Genome Browser - Java based browser |
 
 
