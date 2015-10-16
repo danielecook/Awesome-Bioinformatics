@@ -16,6 +16,10 @@ __Next Generation Sequencing__
 * [Variant Prediction](#variant-prediction)
 * [Python Modules](#python-modules)
 
+__Visualization__
+
+
+
 ## Data Processing
 
 ### Command Line Utilities
@@ -105,5 +109,21 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 | [pyVCF](https://github.com/jamescasbon/PyVCF)                           | A VCF Parser for python.
 | [cyVCF](https://github.com/arq5x/cyvcf)                                 | A fast Python library for VCF files leveraging Cython for speed. Based off of pyVCF.
 | [Biopython](https://github.com/biopython/biopython) | Large suite of bioinformatic utilities.
+
+### Visualization
+
+#### Gene Glyph Generation
+
+The following tools are useful for highly customizable generation of gene-diagrams or 'glyphs'.
+
+| Program | Description
+|:--------|:----------
+| [scribl](https://github.com/chmille4/Scribl) | javascript library for generating gene glyphs |
+
+#### Genome Browser
+
+| Program | Description
+|:--------|:----------
+| [IGV](https://www.broadinstitute.org/igv/) | Integrated Genome Browser - Java based browser |
 
 
