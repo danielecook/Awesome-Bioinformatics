@@ -104,6 +104,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 * [biodalliance](http://www.biodalliance.org/) - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
 * [IGV](https://www.broadinstitute.org/igv/) - Java based browser.  Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
+* [Island Plot](https://github.com/lairdm/islandplot) - d3 javascript based genome viewer. Constructs SVGs.
 * [pileup.js](https://github.com/hammerlab/pileup.js) - javascript library that can be used to generate interactive and highly customizable web-based genome browsers.
 * [scribl](https://github.com/chmille4/Scribl) - javascript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 
