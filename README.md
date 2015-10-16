@@ -97,17 +97,15 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 ## Visualization
 
-### Gene Diagrams
 
-_Tools for drawing gene diagrams / alignments_
+### Genome Browsers / Gene diagrams
 
-* [scribl](https://github.com/chmille4/Scribl) - javascript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
+The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more.
+
+* [biodalliance](http://www.biodalliance.org/) - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
+* [IGV](https://www.broadinstitute.org/igv/) - Java based browser.  Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
 * [pileup.js](https://github.com/hammerlab/pileup.js) - javascript library that can be used to generate interactive and highly customizable web-based genome browsers.
-
-### Genome Browsers
-
-* [IGV](https://www.broadinstitute.org/igv/) - Java based browser.  Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
-* [pileup.js]
+* [scribl](https://github.com/chmille4/Scribl) - javascript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 
 > Integrated Genome Browser - Java based browser |
 
