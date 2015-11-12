@@ -87,13 +87,14 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 ### Python Modules
 
-| Program                                                                 | Description
-|:----------------------------------------------------------------------- | :------------
-| [pyBedTools](https://github.com/daler/pybedtools)                       | Python wrapper for [bedtools](https://github.com/arq5x/bedtools). 
-| [pysam](https://github.com/pysam-developers/pysam)                      | Python wrapper for [samtools](https://github.com/samtools/samtools).
-| [pyVCF](https://github.com/jamescasbon/PyVCF)                           | A VCF Parser for python.
-| [cyVCF](https://github.com/arq5x/cyvcf)                                 | A fast Python library for VCF files leveraging Cython for speed. Based off of pyVCF.
-| [Biopython](https://github.com/biopython/biopython) | Large suite of bioinformatic utilities.
+* __[cruzdb](https://github.com/brentp/cruzdb) - Pythonic access to the ucsc genome database.
+* __[pyfaidx](https://github.com/mdshw5/pyfaidx)__ - Pythonic access to fasta files.
+* __[pyBedTools](https://github.com/daler/pybedtools) - Python wrapper for [bedtools](https://github.com/arq5x/bedtools). 
+* __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools).
+* __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools).
+* __[pyVCF](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for python.
+* __[cyvcf](https://github.com/arq5x/cyvcf)__ - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) using Cython for speed.
+* __[cyvcf2](https://github.com/brentp/cyvcf2)__ - cython + htslib == fast VCF parsing; Even faster parsing than pyVCF.
 
 ## Visualization
 
@@ -102,11 +103,11 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more.
 
-* [biodalliance](http://www.biodalliance.org/) - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
-* [IGV](https://www.broadinstitute.org/igv/) - Java based browser.  Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
-* [Island Plot](https://github.com/lairdm/islandplot) - d3 javascript based genome viewer. Constructs SVGs.
-* [pileup.js](https://github.com/hammerlab/pileup.js) - javascript library that can be used to generate interactive and highly customizable web-based genome browsers.
-* [scribl](https://github.com/chmille4/Scribl) - javascript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
+* __[biodalliance](http://www.biodalliance.org/)__ - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
+* __[IGV](https://www.broadinstitute.org/igv/)__ - Java based browser.  Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
+* __[Island Plot](https://github.com/lairdm/islandplot)__ - d3 javascript based genome viewer. Constructs SVGs.
+* __[pileup.js](https://github.com/hammerlab/pileup.js)__ - javascript library that can be used to generate interactive and highly customizable web-based genome browsers.
+* __[scribl](https://github.com/chmille4/Scribl)__ - javascript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 
 
 
