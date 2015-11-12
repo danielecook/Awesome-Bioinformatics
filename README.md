@@ -87,9 +87,9 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 ### Python Modules
 
-* __[cruzdb](https://github.com/brentp/cruzdb) - Pythonic access to the ucsc genome database.
+* __[cruzdb](https://github.com/brentp/cruzdb)__ - Pythonic access to the ucsc genome database.
 * __[pyfaidx](https://github.com/mdshw5/pyfaidx)__ - Pythonic access to fasta files.
-* __[pyBedTools](https://github.com/daler/pybedtools) - Python wrapper for [bedtools](https://github.com/arq5x/bedtools). 
+* __[pyBedTools](https://github.com/daler/pybedtools)__ - Python wrapper for [bedtools](https://github.com/arq5x/bedtools). 
 * __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools).
 * __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools).
 * __[pyVCF](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for python.
