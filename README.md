@@ -65,9 +65,8 @@ __DNA Resequencing__
 
 __Genomic Traits__ are differences in terms of DNA structure or content observed among populations that may be regulated by genetic variation. For example, telomere length or rDNA copy number.
 
-| Program | Description
-|:----------|:---------------------
-| [Telseq](https://github.com/zd1/telseq) | Telseq is a tool for estimating telomere length from whole genome sequence data.
+* __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
+* __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; Bam Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
 
 ### Variant Simulation
 
