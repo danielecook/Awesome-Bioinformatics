@@ -80,6 +80,7 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 | Program                                                                 | Description
 |:----------------------------------------------------------------------- | :------------
+| [SIFT](http://sift.jcvi.org/) | Predicts whether an amino acid substitution affects protein function
 | [SNPeff](http://snpeff.sourceforge.net/) | Genetic variant annotation and effect prediction toolbox. 
 
 
