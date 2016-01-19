@@ -3,7 +3,28 @@ Awesome-Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 
 A curated list of awesome Bioinformatics software and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](CONTRIBUTING.md)!
 
+**Table of Contents**  
 
+  - [Data Processing](#data-processing)
+    - [Command Line Utilities](#command-line-utilities)
+  - [Next Generation Sequencing](#next-generation-sequencing)
+    - [Pipelines](#pipelines)
+    - [Sequence Processing](#sequence-processing)
+    - [Sequence Alignment](#sequence-alignment)
+    - [Variant Calling](#variant-calling)
+    - [BAM File Utilities](#bam-file-utilities)
+    - [VCF File Utilities](#vcf-file-utilities)
+      - [Genomic Traits](#genomic-traits)
+    - [Variant Simulation](#variant-simulation)
+    - [Variant Filtering / Quality Control](#variant-filtering--quality-control)
+    - [Variant Prediction/Annotation](#variant-predictionannotation)
+    - [Python Modules](#python-modules)
+  - [Visualization](#visualization)
+    - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+----
 
 ## Data Processing
 
