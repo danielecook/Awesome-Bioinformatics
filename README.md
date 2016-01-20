@@ -1,9 +1,9 @@
 Awesome-Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ======================
 
-A curated list of awesome Bioinformatics software and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](CONTRIBUTING.md)!
+A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](CONTRIBUTING.md)!
 
-**Table of Contents**  
+**Table of Contents**
 
   - [Data Processing](#data-processing)
     - [Command Line Utilities](#command-line-utilities)
@@ -21,6 +21,12 @@ A curated list of awesome Bioinformatics software and libraries. Mostly command 
     - [Python Modules](#python-modules)
   - [Visualization](#visualization)
     - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
+  - [Database Access](#database-access)
+  - [Resources](#resources)
+    - [Sequencing](#sequencing)
+    - [RNA-seq](#rna-seq)
+    - [ChIP-seq](#chip-seq)
+    - [Miscellaneous](#miscellaneous)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -32,10 +38,10 @@ A curated list of awesome Bioinformatics software and libraries. Mostly command 
 
 | Program                                                                 | Description
 |:----------------------------------------------------------------------- | :------------
-| [datamash](http://www.gnu.org/software/datamash/)                       | Data transformations and statistics. 
+| [datamash](http://www.gnu.org/software/datamash/)                       | Data transformations and statistics.
 | [Bioinformatics One Liners](https://github.com/stephenturner/oneliners) | Git repo of useful single line commands.
-| [CSVKit](https://github.com/onyxfish/csvkit) | Utilities for working with CSV/Tab-delimited files.
-| [Bedtools2](https://github.com/arq5x/bedtools2)                         | a swiss army knife for genome arithmetic
+| [CSVKit](https://github.com/onyxfish/csvkit)                            | Utilities for working with CSV/Tab-delimited files.
+| [Bedtools2](https://github.com/arq5x/bedtools2)                         | A Swiss Army knife for genome arithmetic.
 
 ## Next Generation Sequencing
 
@@ -45,7 +51,7 @@ A curated list of awesome Bioinformatics software and libraries. Mostly command 
 |:----------------------------------------------------------------------- | :------------
 | [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)              | Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction.
 
-### Sequence Processing 
+### Sequence Processing
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
@@ -62,24 +68,24 @@ __DNA Resequencing__
 
 | Program                                                                 | Description
 |:----------------------------------------------------------------------- | :------------
-| [BWA](https://github.com/lh3/bwa) | Burrow-Wheeler Aligner for pairwise alignment between DNA sequences. 
+| [BWA](https://github.com/lh3/bwa)                                       | Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
 
 ### Variant Calling
 
 | Program                                                                 | Description
 |:----------------------------------------------------------------------- | :------------
-| [samtools/bcftools/htslib](https://github.com/samtools/samtools) | A suite of tools for manipulating next-generation sequencing data.
-| [freebayes](https://github.com/ekg/freebayes) | Bayesian haplotype-based polymorphism discovery and genotyping.
+| [samtools/bcftools/htslib](https://github.com/samtools/samtools)        | A suite of tools for manipulating next-generation sequencing data.
+| [freebayes](https://github.com/ekg/freebayes)                           | Bayesian haplotype-based polymorphism discovery and genotyping.
 
 ### BAM File Utilities
 
-* [Bamtools](https://github.com/pezmaster31/bamtools) - Collection of tools for working with bam files.
+* [Bamtools](https://github.com/pezmaster31/bamtools) - Collection of tools for working with BAM files.
 
 ### VCF File Utilities
 
 * __[vcflib](https://github.com/ekg/vcflib)__ - A C++ library for parsing and manipulating VCF files.
-* __[bcftools](https://github.com/samtools/bcftools)__ - Set of tools for manipulating vcf files.
-* __[vcftools](http://vcftools.sourceforge.net/)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst)
+* __[bcftools](https://github.com/samtools/bcftools)__ - Set of tools for manipulating VCF files.
+* __[vcftools](http://vcftools.sourceforge.net/)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst).
 
 #### Genomic Traits
 
@@ -92,8 +98,8 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 | Program                                                                 | Description
 |:----------------------------------------------------------------------- | :------------
-| [wgsim](https://github.com/lh3/wgsim) | __Comes with samtools!__ - Reads simulator
-| [Bam Surgeon](https://github.com/adamewing/bamsurgeon) | Tools for adding mutations to existing .bam files, used for testing mutation callers.
+| [wgsim](https://github.com/lh3/wgsim)                                   | __Comes with samtools!__ - Reads simulator.
+| [Bam Surgeon](https://github.com/adamewing/bamsurgeon)                  | Tools for adding mutations to existing .bam files, used for testing mutation callers.
 
 ### Variant Filtering / Quality Control
 
@@ -101,15 +107,14 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 | Program                                                                 | Description
 |:----------------------------------------------------------------------- | :------------
-| [SIFT](http://sift.jcvi.org/) | Predicts whether an amino acid substitution affects protein function
-| [SNPeff](http://snpeff.sourceforge.net/) | Genetic variant annotation and effect prediction toolbox. 
-
+| [SIFT](http://sift.jcvi.org/)                                           | Predicts whether an amino acid substitution affects protein function.
+| [SNPeff](http://snpeff.sourceforge.net/)                                | Genetic variant annotation and effect prediction toolbox.
 
 ### Python Modules
 
-* __[cruzdb](https://github.com/brentp/cruzdb)__ - Pythonic access to the ucsc genome database.
-* __[pyfaidx](https://github.com/mdshw5/pyfaidx)__ - Pythonic access to fasta files.
-* __[pyBedTools](https://github.com/daler/pybedtools)__ - Python wrapper for [bedtools](https://github.com/arq5x/bedtools). 
+* __[cruzdb](https://github.com/brentp/cruzdb)__ - Pythonic access to the UCSC Genome database.
+* __[pyfaidx](https://github.com/mdshw5/pyfaidx)__ - Pythonic access to FASTA files.
+* __[pyBedTools](https://github.com/daler/pybedtools)__ - Python wrapper for [bedtools](https://github.com/arq5x/bedtools).
 * __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools).
 * __[pyVCF](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for python.
 * __[cyvcf](https://github.com/arq5x/cyvcf)__ - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) using Cython for speed.
@@ -117,16 +122,38 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 ## Visualization
 
-
 ### Genome Browsers / Gene diagrams
 
 The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more.
 
 * __[biodalliance](http://www.biodalliance.org/)__ - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
-* __[IGV](https://www.broadinstitute.org/igv/)__ - Java based browser.  Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
-* __[Island Plot](https://github.com/lairdm/islandplot)__ - d3 javascript based genome viewer. Constructs SVGs.
-* __[pileup.js](https://github.com/hammerlab/pileup.js)__ - javascript library that can be used to generate interactive and highly customizable web-based genome browsers.
-* __[scribl](https://github.com/chmille4/Scribl)__ - javascript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
+* __[IGV](https://www.broadinstitute.org/igv/)__ - Java based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
+* __[Island Plot](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs.
+* __[pileup.js](https://github.com/hammerlab/pileup.js)__ - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers.
+* __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 
+## Database Access
 
+* [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
 
+## Resources
+
+### Sequencing
+
+* [Next-Generation Sequencing Technologies - Elaine Mardis (2014)](https://youtu.be/6Is3W7JkFp8) [1:34:35] - Excellent (technical) overview of next-generation and third-generation sequencing technologies, along with some applications in cancer research.
+* [Annotated bibliography of *Seq assays](https://liorpachter.wordpress.com/seq/) - List of ~100 papers on various sequencing technologies and assays ranging from transcription to transposable element discovery.
+* [For all you seq... (PDF)](http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf) (3456x5471) - Massive infographic by Illumina on illustrating how many sequencing techniques work. Techniques cover protein-protein interactions, RNA transcription, RNA-protein interactions, RNA low-level detection, RNA modifications, RNA structure, DNA rearrangements and markers, DNA low-level detection, epigenetics, and DNA-protein interactions. References included.
+
+### RNA-Seq
+
+* [Review papers on RNA-seq (Biostars)](https://www.biostars.org/p/52152/) - Includes lots of seminal papers on RNA-seq and analysis methods.
+* [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial) - Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation.
+* [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia provides an awesome overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.
+
+### ChIP-Seq
+
+* [ChIP-seq analysis notes from Tommy Tang](https://github.com/crazyhottommy/ChIP-seq-analysis) - Resources on ChIP-seq data which include papers, methods, links to software, and analysis.
+
+### Miscellaneous
+
+* [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers/) - Expertly curated genomics papers to get up to speed on genomics, RNA-seq, statistics (used in genomics), software development, and more.
