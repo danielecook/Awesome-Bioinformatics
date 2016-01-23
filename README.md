@@ -36,20 +36,17 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 ### Command Line Utilities
 
-| Program                                                                 | Description
-|:----------------------------------------------------------------------- | :------------
-| [datamash](http://www.gnu.org/software/datamash/)                       | Data transformations and statistics.
-| [Bioinformatics One Liners](https://github.com/stephenturner/oneliners) | Git repo of useful single line commands.
-| [CSVKit](https://github.com/onyxfish/csvkit)                            | Utilities for working with CSV/Tab-delimited files.
-| [Bedtools2](https://github.com/arq5x/bedtools2)                         | A Swiss Army knife for genome arithmetic.
+
+* __[datamash](http://www.gnu.org/software/datamash/)__ - Data transformations and statistics.
+* __[Bioinformatics One Liners](https://github.com/stephenturner/oneliners)__ - Git repo of useful single line commands.
+* __[CSVKit](https://github.com/onyxfish/csvkit)__ - Utilities for working with CSV/Tab-delimited files.
+* __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic.
 
 ## Next Generation Sequencing
 
 ### Pipelines
 
-| Program                                                                 | Description
-|:----------------------------------------------------------------------- | :------------
-| [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)              | Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction.
+* __[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)__ - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction.
 
 ### Sequence Processing
 
@@ -66,16 +63,12 @@ __De Novo Alignment__
 
 __DNA Resequencing__
 
-| Program                                                                 | Description
-|:----------------------------------------------------------------------- | :------------
-| [BWA](https://github.com/lh3/bwa)                                       | Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+* __[BWA](https://github.com/lh3/bwa)__ Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
 
 ### Variant Calling
 
-| Program                                                                 | Description
-|:----------------------------------------------------------------------- | :------------
-| [samtools/bcftools/htslib](https://github.com/samtools/samtools)        | A suite of tools for manipulating next-generation sequencing data.
-| [freebayes](https://github.com/ekg/freebayes)                           | Bayesian haplotype-based polymorphism discovery and genotyping.
+* __[samtools/bcftools/htslib](https://github.com/samtools/samtools)__ - A suite of tools for manipulating next-generation sequencing data.
+* __[freebayes](https://github.com/ekg/freebayes)__ - Bayesian haplotype-based polymorphism discovery and genotyping.
 
 ### BAM File Utilities
 
@@ -96,19 +89,15 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 ### Variant Simulation
 
-| Program                                                                 | Description
-|:----------------------------------------------------------------------- | :------------
-| [wgsim](https://github.com/lh3/wgsim)                                   | __Comes with samtools!__ - Reads simulator.
-| [Bam Surgeon](https://github.com/adamewing/bamsurgeon)                  | Tools for adding mutations to existing .bam files, used for testing mutation callers.
+* __[wgsim](https://github.com/lh3/wgsim) - __Comes with samtools!__ - Reads simulator.
+* __[Bam Surgeon](https://github.com/adamewing/bamsurgeon)__ - Tools for adding mutations to existing .bam files, used for testing mutation callers.
 
 ### Variant Filtering / Quality Control
 
 ### Variant Prediction/Annotation
 
-| Program                                                                 | Description
-|:----------------------------------------------------------------------- | :------------
-| [SIFT](http://sift.jcvi.org/)                                           | Predicts whether an amino acid substitution affects protein function.
-| [SNPeff](http://snpeff.sourceforge.net/)                                | Genetic variant annotation and effect prediction toolbox.
+* __[SIFT](http://sift.jcvi.org/)__ - Predicts whether an amino acid substitution affects protein function.
+* __[SNPeff](http://snpeff.sourceforge.net/)__ - Genetic variant annotation and effect prediction toolbox.
 
 ### Python Modules
 
