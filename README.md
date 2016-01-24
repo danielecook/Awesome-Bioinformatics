@@ -89,7 +89,7 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 
 ### Variant Simulation
 
-* __[wgsim](https://github.com/lh3/wgsim) - __Comes with samtools!__ - Reads simulator.
+* __[wgsim](https://github.com/lh3/wgsim)__ - __Comes with samtools!__ - Reads simulator.
 * __[Bam Surgeon](https://github.com/adamewing/bamsurgeon)__ - Tools for adding mutations to existing .bam files, used for testing mutation callers.
 
 ### Variant Filtering / Quality Control
