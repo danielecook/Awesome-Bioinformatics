@@ -36,11 +36,11 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 ### Command Line Utilities
 
-
 * __[datamash](http://www.gnu.org/software/datamash/)__ - Data transformations and statistics.
 * __[Bioinformatics One Liners](https://github.com/stephenturner/oneliners)__ - Git repo of useful single line commands.
 * __[CSVKit](https://github.com/onyxfish/csvkit)__ - Utilities for working with CSV/Tab-delimited files.
 * __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic.
+* __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
 
 ## Next Generation Sequencing
 
