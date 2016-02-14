@@ -104,7 +104,7 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 #### Data
 
 * __[cruzdb](https://github.com/brentp/cruzdb)__ - Pythonic access to the UCSC Genome database.
-* __[pyensembl](https://github.com/hammerlab/pyensembl) - Pythonic Access to the Ensembl database.
+* __[pyensembl](https://github.com/hammerlab/pyensembl)__ - Pythonic Access to the Ensembl database.
 
 #### Tools
 
