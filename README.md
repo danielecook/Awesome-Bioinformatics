@@ -5,28 +5,35 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 **Table of Contents**
 
-  - [Data Processing](#data-processing)
-    - [Command Line Utilities](#command-line-utilities)
-  - [Next Generation Sequencing](#next-generation-sequencing)
-    - [Pipelines](#pipelines)
-    - [Sequence Processing](#sequence-processing)
-    - [Sequence Alignment](#sequence-alignment)
-    - [Variant Calling](#variant-calling)
-    - [BAM File Utilities](#bam-file-utilities)
-    - [VCF File Utilities](#vcf-file-utilities)
-      - [Genomic Traits](#genomic-traits)
-    - [Variant Simulation](#variant-simulation)
-    - [Variant Filtering / Quality Control](#variant-filtering--quality-control)
-    - [Variant Prediction/Annotation](#variant-predictionannotation)
-    - [Python Modules](#python-modules)
-  - [Visualization](#visualization)
-    - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
-  - [Database Access](#database-access)
-  - [Resources](#resources)
-    - [Sequencing](#sequencing)
-    - [RNA-seq](#rna-seq)
-    - [ChIP-seq](#chip-seq)
-    - [Miscellaneous](#miscellaneous)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Data Processing](#data-processing)
+  - [Command Line Utilities](#command-line-utilities)
+- [Next Generation Sequencing](#next-generation-sequencing)
+  - [Pipelines](#pipelines)
+  - [Sequence Processing](#sequence-processing)
+  - [Sequence Alignment](#sequence-alignment)
+  - [Variant Calling](#variant-calling)
+  - [BAM File Utilities](#bam-file-utilities)
+  - [VCF File Utilities](#vcf-file-utilities)
+    - [Genomic Traits](#genomic-traits)
+  - [Variant Simulation](#variant-simulation)
+  - [Variant Filtering / Quality Control](#variant-filtering--quality-control)
+  - [Variant Prediction/Annotation](#variant-predictionannotation)
+  - [Python Modules](#python-modules)
+    - [Data](#data)
+    - [Tools](#tools)
+- [Visualization](#visualization)
+  - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
+- [Database Access](#database-access)
+- [Resources](#resources)
+  - [Sequencing](#sequencing)
+  - [RNA-Seq](#rna-seq)
+  - [ChIP-Seq](#chip-seq)
+  - [Miscellaneous](#miscellaneous)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -153,3 +160,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 ### Miscellaneous
 
 * [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers/) - Expertly curated genomics papers to get up to speed on genomics, RNA-seq, statistics (used in genomics), software development, and more.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
