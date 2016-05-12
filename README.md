@@ -31,6 +31,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
 - [Database Access](#database-access)
 - [Resources](#resources)
+  - [Bioinformatician](#bioinformatician)
   - [Sequencing](#sequencing)
   - [RNA-Seq](#rna-seq)
   - [ChIP-Seq](#chip-seq)
@@ -47,9 +48,12 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 * __[datamash](http://www.gnu.org/software/datamash/)__ - Data transformations and statistics.
 * __[Bioinformatics One Liners](https://github.com/stephenturner/oneliners)__ - Git repo of useful single line commands.
-* __[CSVKit](https://github.com/onyxfish/csvkit)__ - Utilities for working with CSV/Tab-delimited files.
 * __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic.
+* __[CSVKit](https://github.com/onyxfish/csvkit)__ - Utilities for working with CSV/Tab-delimited files.
+* __[csvtk](https://github.com/shenwei356/csvtk)__ - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit.
+* __[easy_qsub](https://github.com/shenwei356/easy_qsub)__ - Easily submitting PBS jobs with script template. Multiple input files supported.
 * __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
+
 
 ## Next Generation Sequencing
 
@@ -61,6 +65,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
+* __[fakit](https://github.com/shenwei356/fakit)__ - A cross-platform and efficient toolkit for FASTA/Q file manipulation.
 * __[Fastqp](https://github.com/mdshw5/fastqp)__ - Fastq and Sam quality control using python.
 * __[FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)__ - A quality control tool for high throughput sequence data.
 * __[Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/)__ - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
@@ -142,6 +147,25 @@ The following tools can be used to visualize genomic data or for constructing cu
 * [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
 
 ## Resources
+
+### Bioinformatician
+
+* [What is a bioinformatician](http://blog.fejes.ca/?p=2418)
+* [My Formula as a Bioinformatician](http://computationalproteomic.blogspot.co.uk/2014/01/my-formula-as-bioinformatician.html)
+* [So you want to be a computational biologist?](http://www.nature.com/nbt/journal/v31/n11/abs/nbt.2740.html)
+* [Bioinformatics is not something you are taught, it’s a way of life](http://biomickwatson.wordpress.com/2013/08/06/bioinformatics-is-not-something-you-are-taught-its-a-way-of-life/)
+* [A guide for the lonely bioinformatician](http://biomickwatson.wordpress.com/2013/04/23/a-guide-for-the-lonely-bioinformatician/)
+* [The alternative “what it takes to be a bioinformatician”]( http://biomickwatson.wordpress.com/2013/03/18/the-alternative-what-it-takes-to-be-a-bioinformatician/)
+* [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies](http://www.ploscompbiol.org/article/info:doi%2F10.1371%2Fjournal.pcbi.1003496)
+* [The only core competency you’re ever going to need](http://biomickwatson.wordpress.com/2014/03/10/the-only-core-competency-youre-ever-going-to-need/)
+* [You’re not allowed bioinformatics anymore](http://biomickwatson.wordpress.com/2014/07/21/youre-not-allowed-bioinformatics-anymore/)
+* [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](http://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/)
+* [101 Questions: a new series of interviews with notable bioinformaticians](http://www.acgt.me/?tag=101+questions)
+* [Levels of Bioinformatics Research](http://www.longwoodgenomics.org/2014/10/11/levels-of-bioinformatics-research/)
+* [You can code, too!](http://blog.olgabotvinnik.com/blog/2013/11/22/2013-11-22-you-can-code-too/)
+* [It’s time to reboot bioinformatics education](http://toddharris.net/blog/2015/03/23/its-time-to-reboot-bioinformatics-education/)
+* [An Explosion Of Bioinformatics Careers](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_06_13/science.opms.r1400143)
+
 
 ### Sequencing
 
