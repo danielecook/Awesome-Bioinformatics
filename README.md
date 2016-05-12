@@ -151,21 +151,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 ### Becoming a Bioinformatician
 
 * [What is a bioinformatician](http://blog.fejes.ca/?p=2418)
-* [My Formula as a Bioinformatician](http://computationalproteomic.blogspot.co.uk/2014/01/my-formula-as-bioinformatician.html)
-* [So you want to be a computational biologist?](http://www.nature.com/nbt/journal/v31/n11/abs/nbt.2740.html)
-* [Bioinformatics is not something you are taught, it’s a way of life](http://biomickwatson.wordpress.com/2013/08/06/bioinformatics-is-not-something-you-are-taught-its-a-way-of-life/)
-* [A guide for the lonely bioinformatician](http://biomickwatson.wordpress.com/2013/04/23/a-guide-for-the-lonely-bioinformatician/)
-* [The alternative “what it takes to be a bioinformatician”]( http://biomickwatson.wordpress.com/2013/03/18/the-alternative-what-it-takes-to-be-a-bioinformatician/)
 * [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies](http://www.ploscompbiol.org/article/info:doi%2F10.1371%2Fjournal.pcbi.1003496)
-* [The only core competency you’re ever going to need](http://biomickwatson.wordpress.com/2014/03/10/the-only-core-competency-youre-ever-going-to-need/)
-* [You’re not allowed bioinformatics anymore](http://biomickwatson.wordpress.com/2014/07/21/youre-not-allowed-bioinformatics-anymore/)
 * [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](http://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/)
-* [101 Questions: a new series of interviews with notable bioinformaticians](http://www.acgt.me/?tag=101+questions)
-* [Levels of Bioinformatics Research](http://www.longwoodgenomics.org/2014/10/11/levels-of-bioinformatics-research/)
-* [You can code, too!](http://blog.olgabotvinnik.com/blog/2013/11/22/2013-11-22-you-can-code-too/)
-* [It’s time to reboot bioinformatics education](http://toddharris.net/blog/2015/03/23/its-time-to-reboot-bioinformatics-education/)
-* [An Explosion Of Bioinformatics Careers](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_06_13/science.opms.r1400143)
-
 
 ### Sequencing
 
