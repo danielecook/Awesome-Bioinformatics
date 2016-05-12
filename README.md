@@ -31,7 +31,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
 - [Database Access](#database-access)
 - [Resources](#resources)
-  - [Becoming a Bioinformatician](#bioinformatician)
+  - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
   - [Sequencing](#sequencing)
   - [RNA-Seq](#rna-seq)
   - [ChIP-Seq](#chip-seq)
