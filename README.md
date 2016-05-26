@@ -35,6 +35,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Sequencing](#sequencing)
   - [RNA-Seq](#rna-seq)
   - [ChIP-Seq](#chip-seq)
+  - [Humor](#humor)
   - [Miscellaneous](#miscellaneous)
 - [License](#license)
 
@@ -172,6 +173,10 @@ The following tools can be used to visualize genomic data or for constructing cu
 ### ChIP-Seq
 
 * [ChIP-seq analysis notes from Tommy Tang](https://github.com/crazyhottommy/ChIP-seq-analysis) - Resources on ChIP-seq data which include papers, methods, links to software, and analysis.
+
+### Humor
+
+* [A History Of Bioinformatics (In The Year 2039)](http://video.open-bio.org/video/1/a-history-of-bioinformatics-in-the-year-2039) - A talk by C. Titus Brown on his take of looking back at bioinformatics from the year 2039. His notes for this talk can be found [here](http://ivory.idyll.org/blog/2014-bosc-keynote.html).
 
 ### Miscellaneous
 
