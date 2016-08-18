@@ -14,7 +14,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
 - [Next Generation Sequencing](#next-generation-sequencing)
-  - [Pipelines](#pipelines)
+  - [Pipelines/Pipeline frameworks](#pipelinespipeline-frameworks)
   - [Sequence Processing](#sequence-processing)
   - [Sequence Alignment](#sequence-alignment)
   - [Variant Calling](#variant-calling)
