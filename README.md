@@ -66,19 +66,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 * __[Nextflow](https://www.nextflow.io)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner.
 * __[BigDataScript](https://pcingola.github.io/BigDataScript)__ - A cross-system scripting language for working with big data pipelines in computer systems of different sizes and capabilities.
 * __[Bpipe](http://docs.bpipe.org)__ - A small language for defining pipeline stages and linking them together to make pipelines.
-* __[Pegasus](https://pegasus.isi.edu/)__ - Helps workflow-based applications execute in a number of different environments. Pegasus bridges the scientific domain and the execution environment by automatically mapping high-level workflow descriptions onto distributed resources.
 * __[GATK Queue](http://gatkforums.broadinstitute.org/firecloud/discussion/1306/overview-of-queue)__ - A pipelining system built to work natively with GATK as well as other high-throughput sequence analysis software.
-* __[Toil](https://github.com/BD2KGenomics/toil)__ - A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python.
-* __[Luigi](https://github.com/spotify/luigi)__ - A Python module that helps you build complex pipelines of batch jobs.
-* __[Anduril](http://anduril.org/site/)__ - Uses Scala 2.11 and executes in parallel using a workflow engine optimized for iterative development. External libraries (e.g., R, Python) and command-line tools can be integrated into workflows.
-* __[BioExtract](https://bioextract.org/query/index.jsp)__ - A web-based system for querying biomolecular sequence data, executing analytic tools on the resulting extracts, and constructing workflows composed of such queries and tools.
-* __[Chipster](http://chipster.csc.fi/)__ - A user-friendly software in JAVA for analyzing high-throughput data such as NGS and microarrays.
-* __[GenePattern](https://genepattern.broadinstitute.org/gp/pages/login.jsf)__ - A powerful scientific workflow system that provides access to more than 220 genomic analysis tools.
-* __[KNIME® Analytics Platform](http://www.knime.org/knime-analytics-platform)__ - With more than 1000 modules, hundreds of ready-to-run examples, a comprehensive range of integrated tools, and the widest choice of advanced algorithms available.
 * __[SeqWare](https://seqware.github.io/)__ - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments.
-* __[Tavaxy](http://tavaxy.org/)__ - Tavaxy is a pattern based workflow system for the bioinformatics domain, focusing on genome comparison and sequence analysis.
-* __[Unipro UGENE](http://ugene.net/)__ - Provides a workflow management system that is installed on a local computer.
-* __[VisTrails](http://www.vistrails.org/index.php/Main_Page)__ - An open-source scientific workflow and provenance management system that supports data exploration and visualization.
 * __[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)__ - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction.
 
 ### Sequence Processing
