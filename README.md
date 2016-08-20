@@ -14,7 +14,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
 - [Next Generation Sequencing](#next-generation-sequencing)
-  - [Pipelines](#pipelines)
+  - [Pipelines/Pipeline frameworks](#pipelinespipeline-frameworks)
   - [Sequence Processing](#sequence-processing)
   - [Sequence Alignment](#sequence-alignment)
   - [Variant Calling](#variant-calling)
@@ -55,13 +55,19 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 * __[csvtk](https://github.com/shenwei356/csvtk)__ - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit.
 * __[easy_qsub](https://github.com/shenwei356/easy_qsub)__ - Easily submitting PBS jobs with script template. Multiple input files supported.
 * __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
-* __[Ruffus](http://www.ruffus.org.uk)__ - Computation Pipeline library for python widely used in science and bioinformatics.
+
 
 
 ## Next Generation Sequencing
 
-### Pipelines
-
+### Pipelines/Pipeline frameworks
+* __[Ruffus](http://www.ruffus.org.uk)__ - Computation Pipeline library for python widely used in science and bioinformatics.
+* __[Snakemake](https://bitbucket.org/snakemake/snakemake/wiki/Home)__ - A workflow management system in Python that aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment.
+* __[Nextflow](https://www.nextflow.io)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner.
+* __[BigDataScript](https://pcingola.github.io/BigDataScript)__ - A cross-system scripting language for working with big data pipelines in computer systems of different sizes and capabilities.
+* __[Bpipe](http://docs.bpipe.org)__ - A small language for defining pipeline stages and linking them together to make pipelines.
+* __[GATK Queue](http://gatkforums.broadinstitute.org/firecloud/discussion/1306/overview-of-queue)__ - A pipelining system built to work natively with GATK as well as other high-throughput sequence analysis software.
+* __[SeqWare](https://seqware.github.io/)__ - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments.
 * __[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)__ - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction.
 
 ### Sequence Processing
