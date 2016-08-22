@@ -87,7 +87,8 @@ __De Novo Alignment__
 
 __DNA Resequencing__
 
-* __[BWA](https://github.com/lh3/bwa)__ Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+* __[BWA](https://github.com/lh3/bwa)__ - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+* __[bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)__ - Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences.
 
 ### Variant Calling
 
@@ -156,6 +157,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 * __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 * __[DNAism](https://github.com/drio/dnaism)__ - Horizon chart d3-based js library for DNA data.
 * __[BioCircos.js](http://bioinfo.ibp.ac.cn/biocircos/)__ - BioCircos.js is an open source interactive Javascript library which provides an easy way to interactive display biological data on the web.
+* __[Cytoscape.js](http://js.cytoscape.org/)__ - Cytoscape.js is an open-source graph theory (a.k.a. network) library written in JS.
 
 ## Database Access
 
