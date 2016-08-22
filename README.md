@@ -95,8 +95,8 @@ __DNA Resequencing__
 
 ### BAM File Utilities
 
-* [Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
-* [Sambamba](http://lomereiter.github.io/sambamba/)__ - Faster Bamtools with multithreading support.
+* __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
+* __[Sambamba](http://lomereiter.github.io/sambamba/)__ - Faster Bamtools with multithreading support.
 
 ### VCF File Utilities
 
