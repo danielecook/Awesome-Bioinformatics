@@ -19,6 +19,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Sequence Alignment](#sequence-alignment)
   - [Variant Calling](#variant-calling)
   - [BAM File Utilities](#bam-file-utilities)
+  - [BigWig File Utilities](#bigwig-file-utilities)
   - [VCF File Utilities](#vcf-file-utilities)
     - [Genomic Traits](#genomic-traits)
   - [Variant Simulation](#variant-simulation)
@@ -86,7 +87,8 @@ __De Novo Alignment__
 
 __DNA Resequencing__
 
-* __[BWA](https://github.com/lh3/bwa)__ Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+* __[BWA](https://github.com/lh3/bwa)__ - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+* __[bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)__ - Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences.
 
 ### Variant Calling
 
@@ -95,10 +97,13 @@ __DNA Resequencing__
 
 ### BAM File Utilities
 
-* [Bamtools](https://github.com/pezmaster31/bamtools) - Collection of tools for working with BAM files.
+* __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
+* __[Sambamba](http://lomereiter.github.io/sambamba/)__ - Faster Bamtools with multithreading support.
+
+### BigWig File Utilities
+* __[bwtool](https://github.com/CRG-Barcelona/bwtool)__ - bwtool is a command-line utility for bigWig files.
 
 ### VCF File Utilities
-
 * __[vcflib](https://github.com/ekg/vcflib)__ - A C++ library for parsing and manipulating VCF files.
 * __[bcftools](https://github.com/samtools/bcftools)__ - Set of tools for manipulating VCF files.
 * __[vcftools](http://vcftools.sourceforge.net/)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst).
@@ -148,8 +153,11 @@ The following tools can be used to visualize genomic data or for constructing cu
 * __[IGV js](https://www.broadinstitute.org/igv/)__ - Java based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats). 
 * __[Island Plot](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs.
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__ - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers.
+* __[JBrowse](http://jbrowse.org/)__ - JBrowse is a fast, embeddable genome browser built completely with JavaScript and HTML5, with optional run-once data formatting tools written in Perl.
 * __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 * __[DNAism](https://github.com/drio/dnaism)__ - Horizon chart d3-based js library for DNA data.
+* __[BioCircos.js](http://bioinfo.ibp.ac.cn/biocircos/)__ - BioCircos.js is an open source interactive Javascript library which provides an easy way to interactive display biological data on the web.
+* __[Cytoscape.js](http://js.cytoscape.org/)__ - Cytoscape.js is an open-source graph theory (a.k.a. network) library written in JS.
 
 ## Database Access
 
