@@ -178,6 +178,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ### Becoming a Bioinformatician
 
+* [Rosalind](http://rosalind.info/) - Rosalind is a platform for learning bioinformatics through problem solving.
 * [What is a bioinformatician](http://blog.fejes.ca/?p=2418)
 * [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies](http://www.ploscompbiol.org/article/info:doi%2F10.1371%2Fjournal.pcbi.1003496)
 * [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](http://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/)
@@ -229,7 +230,6 @@ The following tools can be used to visualize genomic data or for constructing cu
 * [A New Online Computational Biology Curriculum](http://dx.doi.org/10.1371/journal.pcbi.1003662) - "This article introduces a catalog of several hundred free video courses of potential interest to those wishing to expand their knowledge of bioinformatics and computational biology. The courses are organized into eleven subject areas modeled on university departments and are accompanied by commentary and career advice."
 * [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project.
 * [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
-* [Rosalind](http://rosalind.info/) - Rosalind is a platform for learning bioinformatics through problem solving
 
 ## License
 
