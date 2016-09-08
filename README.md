@@ -20,7 +20,6 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Variant Calling](#variant-calling)
   - [BAM File Utilities](#bam-file-utilities)
   - [VCF File Utilities](#vcf-file-utilities)
-    - [Genomic Traits](#genomic-traits)
   - [GFF BED File Utilities](#gff-bed-file-utilities)
   - [Variant Simulation](#variant-simulation)
   - [Variant Filtering / Quality Control](#variant-filtering--quality-control)
@@ -105,6 +104,8 @@ __DNA Resequencing__
 * __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
 * __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common sam & bam conversions
 * __[SAMstat](http://samstat.sourceforge.net/)__ - Displaying sequence statistics for next generation sequencing
+* __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
+* __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; Bam Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
 
 ### VCF File Utilities
 
@@ -118,13 +119,6 @@ __DNA Resequencing__
 * __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic.
 * __[BEDOPS](https://bedops.readthedocs.org/en/latest/index.html)__ - the fast, highly scalable and easily-parallelizable genome analysis toolkit
 * __[gffutils](https://github.com/daler/gffutils)__ - GFF and GTF file manipulation and interconversion
-
-#### Genomic Traits
-
-__Genomic Traits__ are differences in terms of DNA structure or content observed among populations that may be regulated by genetic variation. For example, telomere length or rDNA copy number.
-
-* __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
-* __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; Bam Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
 
 ### Variant Simulation
 
