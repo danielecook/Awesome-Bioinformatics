@@ -21,6 +21,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [BAM File Utilities](#bam-file-utilities)
   - [VCF File Utilities](#vcf-file-utilities)
     - [Genomic Traits](#genomic-traits)
+  - [GFF BED File Utilities](#gff-bed-file-utilities)
   - [Variant Simulation](#variant-simulation)
   - [Variant Filtering / Quality Control](#variant-filtering--quality-control)
   - [Variant Prediction/Annotation](#variant-predictionannotation)
