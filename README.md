@@ -178,7 +178,6 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ### Becoming a Bioinformatician
 
-* [Rosalind](http://rosalind.info/) - Rosalind is a platform for learning bioinformatics through problem solving.
 * [What is a bioinformatician](http://blog.fejes.ca/?p=2418)
 * [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies](http://www.ploscompbiol.org/article/info:doi%2F10.1371%2Fjournal.pcbi.1003496)
 * [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](http://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/)
@@ -187,6 +186,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 * [A farewell to bioinformatics](http://madhadron.com/posts/2012-03-26-a-farewell-to-bioinformatics.html) - A critical view of the state of bioinformatics.
 * [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) - Dr. Keith Bradnam "thought it might be instructive to ask a simple series of questions to a bunch of notable bioinformaticians to assess their feelings on the current state of bioinformatics research, and maybe get any tips they have about what has been useful to their bioinformatics careers."
 * [Learning Resources Index](https://gitlab.com/genomic/learning-resources) - [Adrián E. Salatino's](https://gitlab.com/u/Adrianzo) attempt at consolidating useful links and resources he has found helpful in his graduate career, ranging from (but not limited to) programming help, bioinformatics software, and even blogs to follow.
+* [Rosalind](http://rosalind.info/) - Rosalind is a platform for learning bioinformatics through problem solving.
+
 
 ### Sequencing
 
