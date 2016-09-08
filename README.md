@@ -29,6 +29,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
     - [Tools](#tools)
 - [Visualization](#visualization)
   - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
+  - [Circos Related](#circos-related)
 - [Database Access](#database-access)
 - [Resources](#resources)
   - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
@@ -50,13 +51,14 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 * __[datamash](http://www.gnu.org/software/datamash/)__ - Data transformations and statistics.
 * __[Bioinformatics One Liners](https://github.com/stephenturner/oneliners)__ - Git repo of useful single line commands.
-* __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic.
 * __[CSVKit](https://github.com/onyxfish/csvkit)__ - Utilities for working with CSV/Tab-delimited files.
 * __[csvtk](https://github.com/shenwei356/csvtk)__ - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit.
 * __[easy_qsub](https://github.com/shenwei356/easy_qsub)__ - Easily submitting PBS jobs with script template. Multiple input files supported.
 * __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
-
-
+* __[zindex](https://github.com/mattgodbolt/zindex)__ - Create an index on a compressed text file.
+* __[tabix](https://github.com/samtools/tabix)__ - Table file index.
+* __[wormtable](https://github.com/wormtable/wormtable)__ - Write-once-read-many table for large datasets.
+* __[grabix](https://github.com/arq5x/grabix)__ - A wee tool for random access into BGZF files
 
 ## Next Generation Sequencing
 
@@ -74,11 +76,13 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
-* __[fakit](https://github.com/shenwei356/fakit)__ - A cross-platform and efficient toolkit for FASTA/Q file manipulation.
 * __[Fastqp](https://github.com/mdshw5/fastqp)__ - Fastq and Sam quality control using python.
 * __[FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)__ - A quality control tool for high throughput sequence data.
 * __[Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/)__ - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
 * __[Seqtk](https://github.com/lh3/seqtk)__ - Toolkit for processing sequences in FASTA/Q formats.
+* __[SeqKit](https://github.com/shenwei356/seqkit)__ - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang.
+* __[seqmagick](http://seqmagick.readthedocs.org/en/latest/)__ - file format conversion in Biopython in a convenient way
+
 
 ### Sequence Alignment
 
@@ -86,22 +90,33 @@ __De Novo Alignment__
 
 __DNA Resequencing__
 
-* __[BWA](https://github.com/lh3/bwa)__ Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+* __[BWA](https://github.com/lh3/bwa)__ - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+* __[Bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)__ - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences.
 
 ### Variant Calling
 
 * __[samtools/bcftools/htslib](https://github.com/samtools/samtools)__ - A suite of tools for manipulating next-generation sequencing data.
 * __[freebayes](https://github.com/ekg/freebayes)__ - Bayesian haplotype-based polymorphism discovery and genotyping.
+* __[GATK](https://software.broadinstitute.org/gatk/)__ - Variant Discovery in High-Throughput Sequencing Data
 
 ### BAM File Utilities
 
-* [Bamtools](https://github.com/pezmaster31/bamtools) - Collection of tools for working with BAM files.
+* __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
+* __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common sam & bam conversions
+* __[SAMstat](http://samstat.sourceforge.net/)__ - Displaying sequence statistics for next generation sequencing
 
 ### VCF File Utilities
 
 * __[vcflib](https://github.com/ekg/vcflib)__ - A C++ library for parsing and manipulating VCF files.
 * __[bcftools](https://github.com/samtools/bcftools)__ - Set of tools for manipulating VCF files.
 * __[vcftools](http://vcftools.sourceforge.net/)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst).
+* __[vcfanno](https://github.com/brentp/vcfanno)__ - Annotate a VCF with other VCFs/BEDs/tabixed files
+
+### GFF BED File Utilities
+
+* __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic.
+* __[BEDOPS](https://bedops.readthedocs.org/en/latest/index.html)__ - the fast, highly scalable and easily-parallelizable genome analysis toolkit
+* __[gffutils](https://github.com/daler/gffutils)__ - GFF and GTF file manipulation and interconversion
 
 #### Genomic Traits
 
@@ -145,11 +160,20 @@ __Genomic Traits__ are differences in terms of DNA structure or content observed
 The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more.
 
 * __[biodalliance](http://www.biodalliance.org/)__ - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
-* __[IGV js](https://www.broadinstitute.org/igv/)__ - Java based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats). 
+* __[IGV js](https://www.broadinstitute.org/igv/)__ - Java based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
 * __[Island Plot](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs.
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__ - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers.
 * __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 * __[DNAism](https://github.com/drio/dnaism)__ - Horizon chart d3-based js library for DNA data.
+* __[Circleator](https://github.com/jonathancrabtree/Circleator)__ - Flexible circular visualization of genome-associated data with BioPerl and SVG.
+
+### Circos Related
+
+* __[Circos](http://circos.ca/)__ - Perl package for circular plots, which are well suited for genomic rearrangements.
+* __[J-Circos](http://www.australianprostatecentre.org/research/software/jcircos)__ - A java application for doing interactive work with circos plots.
+* __[ClicO FS](http://bioinformatics.oxfordjournals.org/content/early/2015/08/18/bioinformatics.btv433.long)__ - An interactive web-based service of Circos.
+* __[rCircos](https://cran.r-project.org/web/packages/RCircos/index.html)__ - R package for circular plots.
+* __[OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html)__ -  R package for circular plots for omics data.
 
 ## Database Access
 
@@ -210,6 +234,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 * [A New Online Computational Biology Curriculum](http://dx.doi.org/10.1371/journal.pcbi.1003662) - "This article introduces a catalog of several hundred free video courses of potential interest to those wishing to expand their knowledge of bioinformatics and computational biology. The courses are organized into eleven subject areas modeled on university departments and are accompanied by commentary and career advice."
 * [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project.
 * [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
+* [Rosalind](http://rosalind.info/) - Rosalind is a platform for learning bioinformatics through problem solving
 
 ## License
 
