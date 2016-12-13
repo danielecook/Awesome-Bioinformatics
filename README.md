@@ -64,6 +64,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 ### Pipelines/Pipeline frameworks
 
+* __[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline) - A list of pipeline resources.
 * __[Common Workflow Language](http://www.commonwl.org/)__ - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
 * __[Ruffus](http://www.ruffus.org.uk)__ - Computation Pipeline library for python widely used in science and bioinformatics.
 * __[Snakemake](https://bitbucket.org/snakemake/snakemake/wiki/Home)__ - A workflow management system in Python that aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment.
