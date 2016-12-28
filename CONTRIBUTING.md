@@ -13,3 +13,4 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
 * Send a Pull Request.
+* Add short description in your Pull Request of why the project/resource/tool is awesome.
