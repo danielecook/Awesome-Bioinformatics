@@ -64,9 +64,9 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 ### Pipelines/Pipeline frameworks
 
-* __[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline) - A list of pipeline resources.
+* __[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)__ - A list of pipeline resources.
 * __[Common Workflow Language](http://www.commonwl.org/)__ - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
-* __[Cromwell](https://github.com/broadinstitute/cromwell) - A Workflow Management System geared towards scientific workflows. 
+* __[Cromwell](https://github.com/broadinstitute/cromwell)__ - A Workflow Management System geared towards scientific workflows. 
 * __[Ruffus](http://www.ruffus.org.uk)__ - Computation Pipeline library for python widely used in science and bioinformatics.
 * __[Snakemake](https://bitbucket.org/snakemake/snakemake/wiki/Home)__ - A workflow management system in Python that aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment.
 * __[Nextflow](https://www.nextflow.io)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner.
@@ -85,7 +85,8 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 * __[Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/)__ - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
 * __[Seqtk](https://github.com/lh3/seqtk)__ - Toolkit for processing sequences in FASTA/Q formats.
 * __[SeqKit](https://github.com/shenwei356/seqkit)__ - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang.
-* __[seqmagick](http://seqmagick.readthedocs.org/en/latest/)__ - File format conversion in Biopython in a convenient way.
+* __[seqmagick](http://seqmagick.readthedocs.org/en/latest/)__ - file format conversion in Biopython in a convenient way
+* __[AfterQC](https://github.com/OpenGene/AfterQC)__ - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data
 
 
 ### Sequence Alignment
