@@ -58,7 +58,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 * __[zindex](https://github.com/mattgodbolt/zindex)__ - Create an index on a compressed text file.
 * __[tabix](https://github.com/samtools/tabix)__ - Table file index.
 * __[wormtable](https://github.com/wormtable/wormtable)__ - Write-once-read-many table for large datasets.
-* __[grabix](https://github.com/arq5x/grabix)__ - A wee tool for random access into BGZF files
+* __[grabix](https://github.com/arq5x/grabix)__ - A wee tool for random access into BGZF files.
 
 ## Next Generation Sequencing
 
@@ -80,12 +80,12 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
-* __[Fastqp](https://github.com/mdshw5/fastqp)__ - Fastq and Sam quality control using python.
+* __[Fastqp](https://github.com/mdshw5/fastqp)__ - FASTQ and SAM quality control using Python.
 * __[FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)__ - A quality control tool for high throughput sequence data.
 * __[Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/)__ - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
 * __[Seqtk](https://github.com/lh3/seqtk)__ - Toolkit for processing sequences in FASTA/Q formats.
 * __[SeqKit](https://github.com/shenwei356/seqkit)__ - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang.
-* __[seqmagick](http://seqmagick.readthedocs.org/en/latest/)__ - file format conversion in Biopython in a convenient way
+* __[seqmagick](http://seqmagick.readthedocs.org/en/latest/)__ - File format conversion in Biopython in a convenient way.
 
 
 ### Sequence Alignment
@@ -101,33 +101,33 @@ __DNA Resequencing__
 
 * __[samtools/bcftools/htslib](https://github.com/samtools/samtools)__ - A suite of tools for manipulating next-generation sequencing data.
 * __[freebayes](https://github.com/ekg/freebayes)__ - Bayesian haplotype-based polymorphism discovery and genotyping.
-* __[GATK](https://software.broadinstitute.org/gatk/)__ - Variant Discovery in High-Throughput Sequencing Data
+* __[GATK](https://software.broadinstitute.org/gatk/)__ - Variant Discovery in High-Throughput Sequencing Data.
 
 ### BAM File Utilities
 
 * __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
-* __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common sam & bam conversions
-* __[SAMstat](http://samstat.sourceforge.net/)__ - Displaying sequence statistics for next generation sequencing
+* __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common SAM & BAM conversions.
+* __[SAMstat](http://samstat.sourceforge.net/)__ - Displaying sequence statistics for next-generation sequencing.
 * __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
-* __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; Bam Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
+* __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
 
 ### VCF File Utilities
 
 * __[vcflib](https://github.com/ekg/vcflib)__ - A C++ library for parsing and manipulating VCF files.
 * __[bcftools](https://github.com/samtools/bcftools)__ - Set of tools for manipulating VCF files.
 * __[vcftools](http://vcftools.sourceforge.net/)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst).
-* __[vcfanno](https://github.com/brentp/vcfanno)__ - Annotate a VCF with other VCFs/BEDs/tabixed files
+* __[vcfanno](https://github.com/brentp/vcfanno)__ - Annotate a VCF with other VCFs/BEDs/tabixed files.
 
 ### GFF BED File Utilities
 
 * __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic.
-* __[BEDOPS](https://bedops.readthedocs.org/en/latest/index.html)__ - the fast, highly scalable and easily-parallelizable genome analysis toolkit
-* __[gffutils](https://github.com/daler/gffutils)__ - GFF and GTF file manipulation and interconversion
+* __[BEDOPS](https://bedops.readthedocs.org/en/latest/index.html)__ - The fast, highly scalable and easily-parallelizable genome analysis toolkit.
+* __[gffutils](https://github.com/daler/gffutils)__ - GFF and GTF file manipulation and interconversion.
 
 ### Variant Simulation
 
 * __[wgsim](https://github.com/lh3/wgsim)__ - __Comes with samtools!__ - Reads simulator.
-* __[Bam Surgeon](https://github.com/adamewing/bamsurgeon)__ - Tools for adding mutations to existing .bam files, used for testing mutation callers.
+* __[Bam Surgeon](https://github.com/adamewing/bamsurgeon)__ - Tools for adding mutations to existing `.bam` files, used for testing mutation callers.
 
 ### Variant Filtering / Quality Control
 
@@ -148,28 +148,28 @@ __DNA Resequencing__
 * __[pyfaidx](https://github.com/mdshw5/pyfaidx)__ - Pythonic access to FASTA files.
 * __[pyBedTools](https://github.com/daler/pybedtools)__ - Python wrapper for [bedtools](https://github.com/arq5x/bedtools).
 * __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools).
-* __[pyVCF](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for python.
+* __[pyVCF](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for Python.
 * __[cyvcf](https://github.com/arq5x/cyvcf)__ - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) using Cython for speed.
-* __[cyvcf2](https://github.com/brentp/cyvcf2)__ - cython + htslib == fast VCF parsing; Even faster parsing than pyVCF.
+* __[cyvcf2](https://github.com/brentp/cyvcf2)__ - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF.
 
 ## Visualization
 
-### Genome Browsers / Gene diagrams
+### Genome Browsers / Gene Diagrams
 
 The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more.
 
 * __[biodalliance](http://www.biodalliance.org/)__ - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
-* __[IGV js](https://www.broadinstitute.org/igv/)__ - Java based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
+* __[IGV js](https://www.broadinstitute.org/igv/)__ - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://www.broadinstitute.org/igv/FileFormats).
 * __[Island Plot](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs.
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__ - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers.
 * __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
-* __[DNAism](https://github.com/drio/dnaism)__ - Horizon chart d3-based js library for DNA data.
+* __[DNAism](https://github.com/drio/dnaism)__ - Horizon chart D3-based JavaScript library for DNA data.
 * __[Circleator](https://github.com/jonathancrabtree/Circleator)__ - Flexible circular visualization of genome-associated data with BioPerl and SVG.
 
 ### Circos Related
 
 * __[Circos](http://circos.ca/)__ - Perl package for circular plots, which are well suited for genomic rearrangements.
-* __[J-Circos](http://www.australianprostatecentre.org/research/software/jcircos)__ - A java application for doing interactive work with circos plots.
+* __[J-Circos](http://www.australianprostatecentre.org/research/software/jcircos)__ - A Java application for doing interactive work with circos plots.
 * __[ClicO FS](http://bioinformatics.oxfordjournals.org/content/early/2015/08/18/bioinformatics.btv433.long)__ - An interactive web-based service of Circos.
 * __[rCircos](https://cran.r-project.org/web/packages/RCircos/index.html)__ - R package for circular plots.
 * __[OmicCircos](http://www.bioconductor.org/packages/release/bioc/html/OmicCircos.html)__ -  R package for circular plots for omics data.
@@ -196,7 +196,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 ### Sequencing
 
 * [Next-Generation Sequencing Technologies - Elaine Mardis (2014)](https://youtu.be/6Is3W7JkFp8) [1:34:35] - Excellent (technical) overview of next-generation and third-generation sequencing technologies, along with some applications in cancer research.
-* [Annotated bibliography of *Seq assays](https://liorpachter.wordpress.com/seq/) - List of ~100 papers on various sequencing technologies and assays ranging from transcription to transposable element discovery.
+* [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - List of ~100 papers on various sequencing technologies and assays ranging from transcription to transposable element discovery.
 * [For all you seq... (PDF)](http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf) (3456x5471) - Massive infographic by Illumina on illustrating how many sequencing techniques work. Techniques cover protein-protein interactions, RNA transcription, RNA-protein interactions, RNA low-level detection, RNA modifications, RNA structure, DNA rearrangements and markers, DNA low-level detection, epigenetics, and DNA-protein interactions. References included.
 
 ### RNA-Seq
