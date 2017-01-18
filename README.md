@@ -32,7 +32,11 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Circos Related](#circos-related)
 - [Database Access](#database-access)
 - [Resources](#resources)
-  - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
+  - [Becoming a 
+  
+  
+  
+  informatician](#becoming-a-bioinformatician)
   - [Sequencing](#sequencing)
   - [RNA-Seq](#rna-seq)
   - [ChIP-Seq](#chip-seq)
@@ -167,7 +171,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 * __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 * __[DNAism](https://github.com/drio/dnaism)__ - Horizon chart D3-based JavaScript library for DNA data.
 * __[Circleator](https://github.com/jonathancrabtree/Circleator)__ - Flexible circular visualization of genome-associated data with BioPerl and SVG.
-* __[BioJS](https://github.com/biojs)__ - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies.
+* __[BioJS](https://biojs.net/)__ - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies.
 
 ### Circos Related
 
