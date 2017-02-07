@@ -32,11 +32,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Circos Related](#circos-related)
 - [Database Access](#database-access)
 - [Resources](#resources)
-  - [Becoming a 
-  
-  
-  
-  informatician](#becoming-a-bioinformatician)
+  - [Becoming a Bionformatician](#becoming-a-bioinformatician)
   - [Sequencing](#sequencing)
   - [RNA-Seq](#rna-seq)
   - [ChIP-Seq](#chip-seq)
