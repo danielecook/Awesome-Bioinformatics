@@ -146,6 +146,7 @@ __DNA Resequencing__
 
 * __[cruzdb](https://github.com/brentp/cruzdb)__ - Pythonic access to the UCSC Genome database.
 * __[pyensembl](https://github.com/hammerlab/pyensembl)__ - Pythonic Access to the Ensembl database.
+* __[bioservices](https://github.com/cokelaer/bioservices)__ - Access to Biological Web Services from Python.
 
 #### Tools
 
