@@ -87,6 +87,7 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 * __[FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)__ - A quality control tool for high throughput sequence data.
 * __[Fastqp](https://github.com/mdshw5/fastqp)__ - FASTQ and SAM quality control using Python.
 * __[Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/)__ - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
+* __[MultiQC](http://multiqc.info/)__ - Aggregate results from bioinformatics analyses across many samples into a single report.
 * __[SeqKit](https://github.com/shenwei356/seqkit)__ - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang.
 * __[seqmagick](http://seqmagick.readthedocs.org/en/latest/)__ - file format conversion in Biopython in a convenient way
 * __[Seqtk](https://github.com/lh3/seqtk)__ - Toolkit for processing sequences in FASTA/Q formats.
