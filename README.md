@@ -170,6 +170,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 * __[DNAism](https://github.com/drio/dnaism)__ - Horizon chart D3-based JavaScript library for DNA data.
 * __[IGV js](https://www.broadinstitute.org/igv/)__ - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
 * __[Island Plot](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs.
+* __[JBrowse](https://jbrowse.org)__ - JavaScript genome browser that is highly customizable via plugins and track customizations
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__ - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers.
 * __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 
