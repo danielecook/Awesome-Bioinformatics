@@ -72,7 +72,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 * __[Bpipe](http://docs.bpipe.org)__ - A small language for defining pipeline stages and linking them together to make pipelines.
 * __[Common Workflow Language](http://www.commonwl.org/)__ - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
 * __[Cromwell](https://github.com/broadinstitute/cromwell)__ - A Workflow Management System geared towards scientific workflows. 
-* __[GATK Queue](https://gatkforums.broadinstitute.org/firecloud/discussion/1306/overview-of-queue)__ - A pipelining system built to work natively with GATK as well as other high-throughput sequence analysis software.
+* __[GATK Queue](https://gatkforums.broadinstitute.org/gatk/discussion/1288/howto-run-queue-for-the-first-time)__ - A pipelining system built to work natively with GATK as well as other high-throughput sequence analysis software.
 * __[Nextflow](https://www.nextflow.io)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner.
 * __[Ruffus](http://www.ruffus.org.uk)__ - Computation Pipeline library for python widely used in science and bioinformatics.
 * __[SeqWare](https://seqware.github.io/)__ - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments.
@@ -113,7 +113,7 @@ __DNA Resequencing__
 * __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
 * __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
 * __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common SAM & BAM conversions.
-* __[SAMstat](http://samstat.sourceforge.net/)__ - Displaying sequence statistics for next-generation sequencing.
+* __[SAMstat](https://github.com/TimoLassmann/samstat)__ - Displaying sequence statistics for next-generation sequencing.
 * __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
 
 ### VCF File Utilities
@@ -121,7 +121,7 @@ __DNA Resequencing__
 * __[bcftools](https://github.com/samtools/bcftools)__ - Set of tools for manipulating VCF files.
 * __[vcfanno](https://github.com/brentp/vcfanno)__ - Annotate a VCF with other VCFs/BEDs/tabixed files.
 * __[vcflib](https://github.com/vcflib/vcflib)__ - A C++ library for parsing and manipulating VCF files.
-* __[vcftools](http://vcftools.sourceforge.net/)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst).
+* __[vcftools](https://github.com/vcftools/vcftools)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst).
 
 ### GFF BED File Utilities
 
@@ -139,7 +139,7 @@ __DNA Resequencing__
 ### Variant Prediction/Annotation
 
 * __[SIFT](http://sift.jcvi.org/)__ - Predicts whether an amino acid substitution affects protein function.
-* __[SnpEff](http://snpeff.sourceforge.net/)__ - Genetic variant annotation and effect prediction toolbox.
+* __[SnpEff](https://github.com/pcingola/SnpEff)__ - Genetic variant annotation and effect prediction toolbox.
 
 ### Python Modules
 
