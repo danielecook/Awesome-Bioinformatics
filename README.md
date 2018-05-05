@@ -72,7 +72,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 * __[Bpipe](http://docs.bpipe.org)__ - A small language for defining pipeline stages and linking them together to make pipelines.
 * __[Common Workflow Language](http://www.commonwl.org/)__ - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
 * __[Cromwell](https://github.com/broadinstitute/cromwell)__ - A Workflow Management System geared towards scientific workflows. 
-* __[GATK Queue](https://gatkforums.broadinstitute.org/gatk/discussion/1288/howto-run-queue-for-the-first-time)__ - A pipelining system built to work natively with GATK as well as other high-throughput sequence analysis software. [Overview](https://web.archive.org/web/20161022074922/https://gatkforums.broadinstitute.org/firecloud/discussion/1306/overview-of-queue) of GATK Queue.
+* __[GATK Queue](https://gatkforums.broadinstitute.org/gatk/discussion/1288/howto-run-queue-for-the-first-time)__ - A pipelining system built to work natively with GATK as well as other high-throughput sequence analysis software.
 * __[Nextflow](https://www.nextflow.io)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner.
 * __[Ruffus](http://www.ruffus.org.uk)__ - Computation Pipeline library for python widely used in science and bioinformatics.
 * __[SeqWare](https://seqware.github.io/)__ - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments.
