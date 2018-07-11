@@ -164,6 +164,7 @@ __DNA Resequencing__
 
 The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more.
 
+* __[Squiggle](https://github.com/Lab41/squiggle)__ - Easy-to-use DNA sequence visualization tool that turns FASTA files into browser-based visualizations.
 * __[biodalliance](http://www.biodalliance.org/)__ - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
 * __[BioJS](https://biojs.net/)__ - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies.
 * __[Circleator](https://github.com/jonathancrabtree/Circleator)__ - Flexible circular visualization of genome-associated data with BioPerl and SVG.
