@@ -201,6 +201,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 * [Open Source Society University on Bioinformatics](https://github.com/ossu/bioinformatics) - Solid path for those of you who want to complete a Bioinformatics course on your own time, for free, with courses from the best universities in the World.
 * [Rosalind](http://rosalind.info/) - Rosalind is a platform for learning bioinformatics through problem solving.
 * [A guide for the lonely bioinformatician](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) - This guide is aimed at bioinformaticians, and is meant to guide them towards better career development.
+* [A brief history of bioinformatics](https://doi.org/10.1093/bib/bby063)
 
 ### Sequencing
 
