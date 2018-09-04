@@ -10,7 +10,10 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
+- [Package suites](#package-suites)
+  - [R: Bioconductor](#bioconductor)
+  - [Python: Biopython](#biopython)
+  - [Bioconda](#bioconda)
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
 - [Next Generation Sequencing](#next-generation-sequencing)
@@ -45,13 +48,29 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 ----
 
+## Package suites
+
+Package suites gather software packages and installation tools for specific languages or platforms. We have some for bioinformatics software.
+
+### Bioconductor
+
+* __[Bioconductor](https://www.bioconductor.org/)__ - A plethora of tools for analysis and comprehension of high-throughput genomic data, including 1500+ software packages.
+
+### Biopython
+
+* __[Biopython](https://biopython.org/)__ - Freely available tools for biological computing in Python, with included cookbook, packaging and thorough documentation. Part of the [Open Bioinformatics Foundation](http://open-bio.org/). Contains the very useful [Entrez](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) package for API access to the NCBI databases.
+
+### Bioconda
+
+* __[Bioconda](https://bioconda.github.io/)__ - A channel for the [conda package manager](http://conda.pydata.org/docs/intro.html) specializing in bioinformatics software. Includes a repository with 3000+ ready-to-install (with `conda install`) bioinformatics packages.
+
 ## Data Processing
 
 ### Command Line Utilities
 
 * __[Bioinformatics One Liners](https://github.com/stephenturner/oneliners)__ - Git repo of useful single line commands.
 * __[BioNode](https://www.bionode.io/)__ - Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows.
-* __[bioSyntax](http://www.bioSyntax.org/)__ - Syntax Highlighting for Computational Biology file formats (SAM, VCF, GTF, FASTA, PDB, etc...) in vim/less/gedit/sublime. 
+* __[bioSyntax](http://www.bioSyntax.org/)__ - Syntax Highlighting for Computational Biology file formats (SAM, VCF, GTF, FASTA, PDB, etc...) in vim/less/gedit/sublime.
 * __[CSVKit](https://github.com/wireservice/csvkit)__ - Utilities for working with CSV/Tab-delimited files.
 * __[csvtk](https://github.com/shenwei356/csvtk)__ - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit.
 * __[datamash](http://www.gnu.org/software/datamash/)__ - Data transformations and statistics.
@@ -71,7 +90,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 * __[BigDataScript](https://pcingola.github.io/BigDataScript/)__ - A cross-system scripting language for working with big data pipelines in computer systems of different sizes and capabilities.
 * __[Bpipe](http://docs.bpipe.org)__ - A small language for defining pipeline stages and linking them together to make pipelines.
 * __[Common Workflow Language](http://www.commonwl.org/)__ - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
-* __[Cromwell](https://github.com/broadinstitute/cromwell)__ - A Workflow Management System geared towards scientific workflows. 
+* __[Cromwell](https://github.com/broadinstitute/cromwell)__ - A Workflow Management System geared towards scientific workflows.
+* __[Galaxy](https://usegalaxy.org/)__ - a popular open-source, web-based platform for data intensive biomedical research. Has several features, from data analysis to workflow management to visualization tools.
 * __[GATK Queue](https://gatkforums.broadinstitute.org/gatk/discussion/1288/howto-run-queue-for-the-first-time)__ - A pipelining system built to work natively with GATK as well as other high-throughput sequence analysis software.
 * __[Nextflow](https://www.nextflow.io)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner.
 * __[Ruffus](http://www.ruffus.org.uk)__ - Computation Pipeline library for python widely used in science and bioinformatics.
@@ -172,7 +192,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 * __[IGV js](https://www.broadinstitute.org/igv)__ - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
 * __[Island Plot](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs.
 * __[JBrowse](https://jbrowse.org)__ - JavaScript genome browser that is highly customizable via plugins and track customizations
-* __[PHAT](https://github.com/chgibb/PHAT)__ - Point and click, cross platform suite for analysing and visualizing next-generation sequencing datasets. 
+* __[PHAT](https://github.com/chgibb/PHAT)__ - Point and click, cross platform suite for analysing and visualizing next-generation sequencing datasets.
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__ - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers.
 * __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
 
