@@ -10,9 +10,10 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Package suites](#package-suites)
-  - [R: Bioconductor](#bioconductor)
-  - [Python: Biopython](#biopython)
+  - [Bioconductor](#bioconductor)
+  - [Biopython](#biopython)
   - [Bioconda](#bioconda)
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
@@ -30,18 +31,21 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Python Modules](#python-modules)
     - [Data](#data)
     - [Tools](#tools)
+- [Project Organization](#project-organization)
 - [Visualization](#visualization)
-  - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
+  - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
 - [Database Access](#database-access)
 - [Resources](#resources)
-  - [Becoming a Bionformatician](#becoming-a-bioinformatician)
+  - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
+  - [Bioinformatics on GitHub](#bioinformatics-on-github)
   - [Sequencing](#sequencing)
   - [RNA-Seq](#rna-seq)
   - [ChIP-Seq](#chip-seq)
   - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
   - [Blogs](#blogs)
   - [Miscellaneous](#miscellaneous)
+- [Other useful Awesome Lists](#other-useful-awesome-lists)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -71,6 +75,7 @@ Package suites gather software packages and installation tools for specific lang
 * __[Bioinformatics One Liners](https://github.com/stephenturner/oneliners)__ - Git repo of useful single line commands.
 * __[BioNode](https://www.bionode.io/)__ - Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows.
 * __[bioSyntax](http://www.bioSyntax.org/)__ - Syntax Highlighting for Computational Biology file formats (SAM, VCF, GTF, FASTA, PDB, etc...) in vim/less/gedit/sublime.
+* __[biozsh](https://github.com/kloetzl/biozsh)__ - Bioinformatics ZSH plugin.
 * __[CSVKit](https://github.com/wireservice/csvkit)__ - Utilities for working with CSV/Tab-delimited files.
 * __[csvtk](https://github.com/shenwei356/csvtk)__ - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit.
 * __[datamash](http://www.gnu.org/software/datamash/)__ - Data transformations and statistics.
@@ -78,6 +83,7 @@ Package suites gather software packages and installation tools for specific lang
 * __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
 * __[grabix](https://github.com/arq5x/grabix)__ - A wee tool for random access into BGZF files.
 * __[tabix](https://github.com/samtools/tabix)__ - Table file index.
+* __[visidata](https://visidata.org/)__ - Powerful command-line tabulator data tool.
 * __[wormtable](https://github.com/wormtable/wormtable)__ - Write-once-read-many table for large datasets.
 * __[zindex](https://github.com/mattgodbolt/zindex)__ - Create an index on a compressed text file.
 
@@ -179,6 +185,10 @@ __DNA Resequencing__
 * __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools).
 * __[pyVCF](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for Python.
 
+## Project Organization
+
+* __[cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)__ - Project template renderer.
+
 ## Visualization
 
 ### Genome Browsers / Gene Diagrams
@@ -272,6 +282,15 @@ The following tools can be used to visualize genomic data or for constructing cu
 * [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project.
 * [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 * [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
+
+## Other useful Awesome Lists
+
+* [awesome-shell](https://github.com/alebcay/awesome-shell)
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+* [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps)
+* [awesome-tmux](https://github.com/rothgar/awesome-tmux)
+* [awesome-vim](https://github.com/akrawchyk/awesome-vim)
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## License
 
