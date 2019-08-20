@@ -197,6 +197,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 * __[PHAT](https://github.com/chgibb/PHAT)__ - Point and click, cross platform suite for analysing and visualizing next-generation sequencing datasets.
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__ - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers.
 * __[scribl](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
+* __[Lucid Align](https://lucidalign.com/)__ - "A modern sequence alignment viewer"
 
 ### Circos Related
 
