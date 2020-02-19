@@ -129,8 +129,16 @@ __DNA Resequencing__
 ### Variant Calling
 
 * __[freebayes](https://github.com/ekg/freebayes)__ - Bayesian haplotype-based polymorphism discovery and genotyping.
-* __[GATK](https://software.broadinstitute.org/gatk/)__ - Variant Discovery in High-Throughput Sequencing Data.
+* __[GATK](https://software.broadinstitute.org/gatk/)__ - Variant Discovery in High-Throughput Sequencing Data
 * __[samtools/bcftools/htslib](https://github.com/samtools/samtools)__ - A suite of tools for manipulating next-generation sequencing data.
+
+__Structural variant callers__
+
+* __[Delly](https://github.com/dellytools/delly)__ - Structural variant discovery by integrated paired-end and split-read analysis
+* __[lumpy](https://github.com/arq5x/lumpy-sv)__ - lumpy: a general probabilistic framework for structural variant discovery
+* __[manta](https://github.com/Illumina/manta)__ - Structural variant and indel caller for mapped sequencing data
+* __[gridds](https://github.com/PapenfussLab/gridss)__ - GRIDSS: the Genomic Rearrangement IDentification Software Suite
+* __[smoove](https://github.com/brentp/smoove)__ - structural variant calling and genotyping with existing tools, but,smoothly.
 
 ### BAM File Utilities
 
