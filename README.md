@@ -82,6 +82,7 @@ Package suites gather software packages and installation tools for specific lang
 * __[easy_qsub](https://github.com/shenwei356/easy_qsub)__ - Easily submitting PBS jobs with script template. Multiple input files supported.
 * __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
 * __[grabix](https://github.com/arq5x/grabix)__ - A wee tool for random access into BGZF files.
+* __[gsort](https://github.com/brentp/gsort)__ - Sort genomic files according to a specified order.
 * __[tabix](https://github.com/samtools/tabix)__ - Table file index.
 * __[wormtable](https://github.com/wormtable/wormtable)__ - Write-once-read-many table for large datasets.
 * __[zindex](https://github.com/mattgodbolt/zindex)__ - Create an index on a compressed text file.
