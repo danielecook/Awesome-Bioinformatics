@@ -14,6 +14,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Bioconductor](#bioconductor)
   - [Biopython](#biopython)
   - [Bioconda](#bioconda)
+  - [BioJulia](#biojulia)
 - [Data Tools](#data-tools)
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
@@ -66,6 +67,10 @@ Package suites gather software packages and installation tools for specific lang
 ### Bioconda
 
 * __[Bioconda](https://bioconda.github.io/)__ - A channel for the [conda package manager](http://conda.pydata.org/docs/intro.html) specializing in bioinformatics software. Includes a repository with 3000+ ready-to-install (with `conda install`) bioinformatics packages.
+
+### BioJulia
+
+* __[BioJulia](http://biojulia.net/Bio.jl/)__ - Bioinformatics and computational biology infastructure for the Julia programming language.
 
 ## Data Tools
 
