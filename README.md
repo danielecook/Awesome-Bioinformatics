@@ -46,7 +46,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
   - [Blogs](#blogs)
   - [Miscellaneous](#miscellaneous)
-- [Online Networking Groups](#online-networking-groups)
+- [Online networking groups](#online-networking-groups)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
