@@ -33,7 +33,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Python Modules](#python-modules)
     - [Data](#data)
     - [Tools](#tools)
-- [Visualization](#visualization) 📊
+- [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
 - [Database Access](#database-access)
