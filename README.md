@@ -83,16 +83,16 @@ Package suites gather software packages and installation tools for specific lang
 ### Command Line Utilities
 
 * __[Bioinformatics One Liners](https://github.com/stephenturner/oneliners)__ - Git repo of useful single line commands.
-* __[BioNode](https://www.bionode.io/)__ - Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows.
-* __[bioSyntax](http://www.bioSyntax.org/)__ - Syntax Highlighting for Computational Biology file formats (SAM, VCF, GTF, FASTA, PDB, etc...) in vim/less/gedit/sublime.
-* __[CSVKit](https://github.com/wireservice/csvkit)__ - Utilities for working with CSV/Tab-delimited files.
-* __[csvtk](https://github.com/shenwei356/csvtk)__ - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit.
-* __[datamash](http://www.gnu.org/software/datamash/)__ - Data transformations and statistics.
+* __[BioNode](https://github.com/bionode/bionode)__ - Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows. [ [web](http://bionode.io) ]
+* __[bioSyntax](https://github.com/bioSyntax/bioSyntax)__ - Syntax Highlighting for Computational Biology file formats (SAM, VCF, GTF, FASTA, PDB, etc...) in vim/less/gedit/sublime. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30134911) | [web](http://www.bioSyntax.org) ]
+* __[CSVKit](https://github.com/wireservice/csvkit)__ - Utilities for working with CSV/Tab-delimited files. [ [web](https://csvkit.readthedocs.io/en/latest) ]
+* __[csvtk](https://github.com/shenwei356/csvtk)__ - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit. [ [web](https://bioinf.shenwei.me/csvtk) ]
+* __[datamash](https://git.savannah.gnu.org/gitweb/?p=datamash.git)__ - Data transformations and statistics. [ [web](http://www.gnu.org/software/datamash) ]
 * __[easy_qsub](https://github.com/shenwei356/easy_qsub)__ - Easily submitting PBS jobs with script template. Multiple input files supported.
-* __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
+* **GNU Parallel** - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU Parallel. [ [web](http://www.gnu.org/software/parallel) ]
 * __[grabix](https://github.com/arq5x/grabix)__ - A wee tool for random access into BGZF files.
 * __[gsort](https://github.com/brentp/gsort)__ - Sort genomic files according to a specified order.
-* __[tabix](https://github.com/samtools/tabix)__ - Table file index.
+* __[tabix](https://github.com/samtools/tabix)__ - Table file index. [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21208982) ]
 * __[wormtable](https://github.com/wormtable/wormtable)__ - Write-once-read-many table for large datasets.
 * __[zindex](https://github.com/mattgodbolt/zindex)__ - Create an index on a compressed text file.
 
@@ -221,8 +221,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 * __[Squiggle](https://github.com/Lab41/squiggle)__ - Easy-to-use DNA sequence visualization tool that turns FASTA files into browser-based visualizations. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30247632) | [web](https://squiggle.readthedocs.io/en/latest/) ]
 * __[biodalliance](https://github.com/dasmoth/dalliance)__ - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
 [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21252075) | [web](http://www.biodalliance.org) ]
-* __[BioJS](https://github.com/biojs/biojs)__ - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075290/) [web](http://biojs.net/) ]
-* __[Circleator](https://github.com/jonathancrabtree/Circleator)__ - Flexible circular visualization of genome-associated data with BioPerl and SVG. [ [paper](https://pubmed.ncbi.nlm.nih.gov/25075113) ]
+* __[BioJS](https://github.com/biojs/biojs)__ - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075290/) | [web](http://biojs.net/) ]
+* __[Circleator](https://github.com/jonathancrabtree/Circleator)__ - Flexible circular visualization of genome-associated data with BioPerl and SVG. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075113) ]
 * __[DNAism](https://github.com/drio/dnaism)__ - Horizon chart D3-based JavaScript library for DNA data. [ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0891-2) | [web](http://drio.github.io/dnaism/) ]
 * __[IGV js](https://github.com/igvteam/igv)__ - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383) | [web](https://software.broadinstitute.org/software/igv) ]
 * __[Island Plot](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs. [ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/25916842/) ]
