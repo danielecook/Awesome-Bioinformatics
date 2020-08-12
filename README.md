@@ -75,8 +75,8 @@ Package suites gather software packages and installation tools for specific lang
 
 ## Data Tools
 
-* __[GGD](https://github.com/gogetdata/ggd-cli)__ - Go Get Data; A command line interface for obtaining genomic data
-* __[SRA-Explorer](https://sra-explorer.info/)__ - Easily get SRA download links and other information.
+* __[GGD](https://github.com/gogetdata/ggd-cli)__ - Go Get Data; A command line interface for obtaining genomic data. [ [web](https://gogetdata.github.io) ]
+* __[SRA-Explorer](https://github.com/ewels/sra-explorer)__ - Easily get SRA download links and other information. [ [web](https://sra-explorer.info) ]
 
 ## Data Processing
 
