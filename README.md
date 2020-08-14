@@ -100,35 +100,34 @@ Package suites gather software packages and installation tools for specific lang
 
 ### Workflow Managers
 
-* __[BigDataScript](https://pcingola.github.io/BigDataScript/)__ - A cross-system scripting language for working with big data pipelines in computer systems of different sizes and capabilities.
-* __[Bpipe](http://docs.bpipe.org)__ - A small language for defining pipeline stages and linking them together to make pipelines.
-* __[Common Workflow Language](http://www.commonwl.org/)__ - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
-* __[Cromwell](https://github.com/broadinstitute/cromwell)__ - A Workflow Management System geared towards scientific workflows.
-* __[Galaxy](https://usegalaxy.org/)__ - a popular open-source, web-based platform for data intensive biomedical research. Has several features, from data analysis to workflow management to visualization tools.
-* __[GATK Queue](https://gatkforums.broadinstitute.org/gatk/discussion/1288/howto-run-queue-for-the-first-time)__ - A pipelining system built to work natively with GATK as well as other high-throughput sequence analysis software.
-* __[Nextflow](https://www.nextflow.io) (recommended)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner.
-* __[Ruffus](http://www.ruffus.org.uk)__ - Computation Pipeline library for python widely used in science and bioinformatics.
-* __[SeqWare](https://seqware.github.io/)__ - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments.
-* __[Snakemake](https://bitbucket.org/snakemake/snakemake/wiki/Home)__ - A workflow management system in Python that aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment.
-* __[Workflow Descriptor Language](https://github.com/broadinstitute/wdl)__ - Workflow standard developed by the Broad.
+* __[BigDataScript](https://github.com/pcingola/BigDataScript)__ - A cross-system scripting language for working with big data pipelines in computer systems of different sizes and capabilities. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25189778) | [web](https://pcingola.github.io/BigDataScript) ]
+* __[Bpipe](https://github.com/ssadedin/bpipe)__ - A small language for defining pipeline stages and linking them together to make pipelines. [ [web](http://docs.bpipe.org) ]
+* __[Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)__ - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments. [ [web](http://www.commonwl.org) ]
+* __[Cromwell](https://github.com/broadinstitute/cromwell)__ - A Workflow Management System geared towards scientific workflows. [ [web](https://cromwell.readthedocs.io) ]
+* __[Galaxy](https://github.com/galaxyproject)__ - a popular open-source, web-based platform for data intensive biomedical research. Has several features, from data analysis to workflow management to visualization tools. [ [paper-2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030816) | [web](https://galaxyproject.org) ]
+* __[Nextflow](https://github.com/nextflow-io/nextflow) (recommended)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
+* __[Ruffus](https://github.com/cgat-developers/ruffus)__ - Computation Pipeline library for python widely used in science and bioinformatics. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20847218) | [web](http://www.ruffus.org.uk) ]
+* __[SeqWare](https://github.com/SeqWare/seqware)__ - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/21210981) | [web](https://seqware.github.io) ]
+* __[Snakemake](https://bitbucket.org/snakemake)__ - A workflow management system in Python that aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29788404) | [web](https://snakemake.readthedocs.io) ]
+* __[Workflow Descriptor Language](https://github.com/broadinstitute/wdl)__ - Workflow standard developed by the Broad. [ [web](https://software.broadinstitute.org/wdl) ]
 
 ### Pipelines
 
 * __[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)__ - A list of pipeline resources.
-* __[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)__ - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction.
-* __[R-Peridot](http://www.bioinformatics-brazil.org/r-peridot/)__ - Customizable pipeline for differential expression analysis with an intuitive GUI.
+* __[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)__ - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ [web](https://bcbio-nextgen.readthedocs.io) ]
+* __[R-Peridot](https://github.com/pentalpha/r-peridot)__ - Customizable pipeline for differential expression analysis with an intuitive GUI. [ [web](http://www.bioinformatics-brazil.org/r-peridot) ]
 
 ### Sequence Processing
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
-* __[AfterQC](https://github.com/OpenGene/AfterQC)__ - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data
-* __[FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)__ - A quality control tool for high throughput sequence data.
+* __[AfterQC](https://github.com/OpenGene/AfterQC)__ - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28361673) ]
+* __[FastQC](https://github.com/s-andrews/FastQC)__ - A quality control tool for high throughput sequence data. [ [web](http://www.bioinformatics.babraham.ac.uk/projects/fastqc) ]
 * __[Fastqp](https://github.com/mdshw5/fastqp)__ - FASTQ and SAM quality control using Python.
-* __[Fastx Tookit](http://hannonlab.cshl.edu/fastx_toolkit/)__ - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
-* __[MultiQC](http://multiqc.info/)__ - Aggregate results from bioinformatics analyses across many samples into a single report.
-* __[SeqKit](https://github.com/shenwei356/seqkit)__ - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang.
-* __[seqmagick](http://seqmagick.readthedocs.io/en/latest/)__ - file format conversion in Biopython in a convenient way
+* __[Fastx Tookit](https://github.com/agordon/fastx_toolkit)__ - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities. [ [web](http://hannonlab.cshl.edu/fastx_toolkit) ]
+* __[MultiQC](https://github.com/ewels/MultiQC)__ - Aggregate results from bioinformatics analyses across many samples into a single report. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27312411) | [web](http://multiqc.info) ]
+* __[SeqKit](https://github.com/shenwei356/seqkit)__ - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27706213) | [web](https://bioinf.shenwei.me/seqkit) ]
+* __[seqmagick](https://github.com/fhcrc/seqmagick)__ - file format conversion in Biopython in a convenient way. [ [web](http://seqmagick.readthedocs.io) ]
 * __[Seqtk](https://github.com/lh3/seqtk)__ - Toolkit for processing sequences in FASTA/Q formats.
 * __[smof](https://github.com/incertae-sedis/smof)__ - UNIX-style FASTA manipulation tools.
 
@@ -136,8 +135,8 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 
 The following items allow for scalable genomic analysis by introducing specialized databases.
 
-* __[Hail](https://github.com/hail-is/hail)__ - Scalable genomic analysis
-* __[GLNexus](https://github.com/dnanexus-rnd/GLnexus)__ - Scalable gVCF merging and joint variant calling for population sequencing projects.
+* __[Hail](https://github.com/hail-is/hail)__ - Scalable genomic analysis.
+* __[GLNexus](https://github.com/dnanexus-rnd/GLnexus)__ - Scalable gVCF merging and joint variant calling for population sequencing projects. [ [paper-2018](https://www.biorxiv.org/content/10.1101/343970v1.abstract) ]
 
 ### Sequence Alignment
 
@@ -145,72 +144,72 @@ __De Novo Alignment__
 
 __DNA Resequencing__
 
-* __[Bowtie 2](https://github.com/BenLangmead/bowtie2)__ - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences.
+* __[Bowtie 2](https://github.com/BenLangmead/bowtie2)__ - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. [ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/22388286) | [web](http://bowtie-bio.sourceforge.net/bowtie2) ]
 * __[BWA](https://github.com/lh3/bwa)__ - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
 
 ### Variant Calling
 
-* __[freebayes](https://github.com/ekg/freebayes)__ - Bayesian haplotype-based polymorphism discovery and genotyping.
-* __[GATK](https://software.broadinstitute.org/gatk/)__ - Variant Discovery in High-Throughput Sequencing Data
-* __[samtools/bcftools/htslib](https://github.com/samtools/samtools)__ - A suite of tools for manipulating next-generation sequencing data.
+* __[freebayes](https://github.com/ekg/freebayes)__ - Bayesian haplotype-based polymorphism discovery and genotyping. [ [web](http://arxiv.org/abs/1207.3907) ]
+* __[GATK](https://github.com/broadgsa/gatk)__ - Variant Discovery in High-Throughput Sequencing Data. [ [web](https://software.broadinstitute.org/gatk) ]
+* __[samtools](https://github.com/samtools/samtools)__ - A suite of tools for manipulating next-generation sequencing data. [ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19505943) | [web](http://htslib.org) ]
 
 __Structural variant callers__
 
-* __[Delly](https://github.com/dellytools/delly)__ - Structural variant discovery by integrated paired-end and split-read analysis.
-* __[lumpy](https://github.com/arq5x/lumpy-sv)__ - lumpy: a general probabilistic framework for structural variant discovery.
-* __[manta](https://github.com/Illumina/manta)__ - Structural variant and indel caller for mapped sequencing data.
-* __[gridss](https://github.com/PapenfussLab/gridss)__ - GRIDSS: the Genomic Rearrangement IDentification Software Suite.
+* __[Delly](https://github.com/dellytools/delly)__ - Structural variant discovery by integrated paired-end and split-read analysis. [ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/22962449) ]
+* __[lumpy](https://github.com/arq5x/lumpy-sv)__ - lumpy: a general probabilistic framework for structural variant discovery. [ [paper-2014](https://link.springer.com/article/10.1186/gb-2014-15-6-r84) ]
+* __[manta](https://github.com/Illumina/manta)__ - Structural variant and indel caller for mapped sequencing data. [ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/26647377) ]
+* __[gridss](https://github.com/PapenfussLab/gridss)__ - GRIDSS: the Genomic Rearrangement IDentification Software Suite. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29097403) ]
 * __[smoove](https://github.com/brentp/smoove)__ - structural variant calling and genotyping with existing tools, but,smoothly.
 
 ### BAM File Utilities
 
-* __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
+* __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files. [ [paper-2011](https://academic.oup.com/bioinformatics/article/27/12/1691/255399) ]
 * __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
 * __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common SAM & BAM conversions.
-* __[mosdepth](https://github.com/brentp/mosdepth)__ - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing
-* __[SAMstat](https://github.com/TimoLassmann/samstat)__ - Displaying sequence statistics for next-generation sequencing.
-* __[Somalier](https://github.com/brentp/mosdepth)__ - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs.
-* __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
+* __[mosdepth](https://github.com/brentp/mosdepth)__ - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29096012/) ]
+* __[SAMstat](https://github.com/TimoLassmann/samstat)__ - Displaying sequence statistics for next-generation sequencing. [ [paper-2010](https://academic.oup.com/bioinformatics/article/27/1/130/201972) | [web](http://samstat.sourceforge.net) ]
+* __[Somalier](https://github.com/brentp/mosdepth)__ - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. [ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
+* __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data. [ [paper-2014](https://academic.oup.com/nar/article/42/9/e75/1249448) ]
 
 ### VCF File Utilities
 
-* __[bcftools](https://github.com/samtools/bcftools)__ - Set of tools for manipulating VCF files.
-* __[vcfanno](https://github.com/brentp/vcfanno)__ - Annotate a VCF with other VCFs/BEDs/tabixed files.
+* __[bcftools](https://github.com/samtools/bcftools)__ - Set of tools for manipulating VCF files. [ [paper2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
+* __[vcfanno](https://github.com/brentp/vcfanno)__ - Annotate a VCF with other VCFs/BEDs/tabixed files. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27250555) ]
 * __[vcflib](https://github.com/vcflib/vcflib)__ - A C++ library for parsing and manipulating VCF files.
-* __[vcftools](https://github.com/vcftools/vcftools)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst).
+* __[vcftools](https://github.com/vcftools/vcftools)__ - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst). [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21653522) ]
 
 ### GFF BED File Utilities
 
-* __[gffutils](https://github.com/daler/gffutils)__ - GFF and GTF file manipulation and interconversion.
-* __[BEDOPS](https://bedops.readthedocs.io/en/latest/index.html)__ - The fast, highly scalable and easily-parallelizable genome analysis toolkit.
-* __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic.
+* __[gffutils](https://github.com/daler/gffutils)__ - GFF and GTF file manipulation and interconversion. [ [web](http://daler.github.io/gffutils) ]
+* __[BEDOPS](https://bedops.readthedocs.io/en/latest/index.html)__ - The fast, highly scalable and easily-parallelizable genome analysis toolkit. [ [paper-2012](https://academic.oup.com/bioinformatics/article/28/14/1919/218826) ]
+* __[Bedtools2](https://github.com/arq5x/bedtools2)__ - A Swiss Army knife for genome arithmetic. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20110278) | [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25199790) | [web](https://bedtools.readthedocs.io) ]
 
 ### Variant Simulation
 
-* __[Bam Surgeon](https://github.com/adamewing/bamsurgeon)__ - Tools for adding mutations to existing `.bam` files, used for testing mutation callers.
-* __[wgsim](https://github.com/lh3/wgsim)__ - __Comes with samtools!__ - Reads simulator.
+* __[Bam Surgeon](https://github.com/adamewing/bamsurgeon)__ - Tools for adding mutations to existing `.bam` files, used for testing mutation callers. [ [web](https://popmodels.cancercontrol.cancer.gov/gsr/packages/bamsurgeon) ]
+* __[wgsim](https://github.com/lh3/wgsim)__ - __Comes with samtools!__ - Reads simulator. [ [web](https://popmodels.cancercontrol.cancer.gov/gsr/packages/wgsim) ]
 
 ### Variant Prediction/Annotation
 
-* __[SIFT](http://sift.jcvi.org/)__ - Predicts whether an amino acid substitution affects protein function.
-* __[SnpEff](https://github.com/pcingola/SnpEff)__ - Genetic variant annotation and effect prediction toolbox.
+* __[SIFT](https://github.com/teamdfir/sift)__ - Predicts whether an amino acid substitution affects protein function. [ [paper-2003](https://pubmed.ncbi.nlm.nih.gov/12824425) | [web](http://sift.jcvi.org) ]
+* __[SnpEff](https://github.com/pcingola/SnpEff)__ - Genetic variant annotation and effect prediction toolbox. [ [paper-2012](https://www.tandfonline.com/doi/full/10.4161/fly.19695) | [web](https://pcingola.github.io/SnpEff) ]
 
 ### Python Modules
 
 #### Data
 
-* __[cruzdb](https://github.com/brentp/cruzdb)__ - Pythonic access to the UCSC Genome database.
-* __[pyensembl](https://github.com/openvax/pyensembl)__ - Pythonic Access to the Ensembl database.
-* __[bioservices](https://github.com/cokelaer/bioservices)__ - Access to Biological Web Services from Python.
+* __[cruzdb](https://github.com/brentp/cruzdb)__ - Pythonic access to the UCSC Genome database. [ [paper-2013](https://academic.oup.com/bioinformatics/article/29/23/3003/248468) ]
+* __[pyensembl](https://github.com/openvax/pyensembl)__ - Pythonic Access to the Ensembl database. [ [web](https://pyensembl.readthedocs.io/en/latest/pyensembl.html) ]
+* __[bioservices](https://github.com/cokelaer/bioservices)__ - Access to Biological Web Services from Python. [ [paper-2013](https://academic.oup.com/bioinformatics/article/29/24/3241/194040) | [web](http://bioservices.readthedocs.io) ]
 
 #### Tools
 
 * __[cyvcf](https://github.com/arq5x/cyvcf)__ - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) using Cython for speed.
-* __[cyvcf2](https://github.com/brentp/cyvcf2)__ - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF.
-* __[pyBedTools](https://github.com/daler/pybedtools)__ - Python wrapper for [bedtools](https://github.com/arq5x/bedtools).
+* __[cyvcf2](https://github.com/brentp/cyvcf2)__ - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28165109) | [web](https://brentp.github.io/cyvcf2) ]
+* __[pyBedTools](https://github.com/daler/pybedtools)__ - Python wrapper for [bedtools](https://github.com/arq5x/bedtools). [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21949271) | [web](http://daler.github.io/pybedtools) ]
 * __[pyfaidx](https://github.com/mdshw5/pyfaidx)__ - Pythonic access to FASTA files.
-* __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools).
-* __[pyVCF](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for Python.
+* __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools](https://github.com/samtools/samtools). [ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
+* __[pyVCF](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for Python. [ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
 
 ## Visualization
 
