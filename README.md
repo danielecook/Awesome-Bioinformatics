@@ -11,10 +11,6 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 **Table of Contents**
 
 - [Package suites](#package-suites)
-  - [Bioconductor](#bioconductor)
-  - [Biopython](#biopython)
-  - [Bioconda](#bioconda)
-  - [BioJulia](#biojulia)
 - [Data Tools](#data-tools)
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
@@ -57,21 +53,13 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 Package suites gather software packages and installation tools for specific languages or platforms. We have some for bioinformatics software.
 
-### Bioconductor
+* __[Bioconductor](https://github.com/Bioconductor)__ - A plethora of tools for analysis and comprehension of high-throughput genomic data, including 1500+ software packages. [ [paper-2004](https://link.springer.com/article/10.1186/gb-2004-5-10-r80) | [web](https://www.bioconductor.org) ]
 
-* __[Bioconductor](https://www.bioconductor.org/)__ - A plethora of tools for analysis and comprehension of high-throughput genomic data, including 1500+ software packages.
+* __[Biopython](https://github.com/biopython/biopython)__ - Freely available tools for biological computing in Python, with included cookbook, packaging and thorough documentation. Part of the [Open Bioinformatics Foundation](http://open-bio.org/). Contains the very useful [Entrez](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) package for API access to the NCBI databases. [ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19304878) | [web](https://biopython.org) ]
 
-### Biopython
+* __[Bioconda](https://github.com/bioconda)__ - A channel for the [conda package manager](http://conda.pydata.org/docs/intro.html) specializing in bioinformatics software. Includes a repository with 3000+ ready-to-install (with `conda install`) bioinformatics packages. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29967506) | [web](https://bioconda.github.io) ]
 
-* __[Biopython](https://biopython.org/)__ - Freely available tools for biological computing in Python, with included cookbook, packaging and thorough documentation. Part of the [Open Bioinformatics Foundation](http://open-bio.org/). Contains the very useful [Entrez](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) package for API access to the NCBI databases.
-
-### Bioconda
-
-* __[Bioconda](https://bioconda.github.io/)__ - A channel for the [conda package manager](http://conda.pydata.org/docs/intro.html) specializing in bioinformatics software. Includes a repository with 3000+ ready-to-install (with `conda install`) bioinformatics packages.
-
-### BioJulia
-
-* __[BioJulia](https://biojulia.net/)__ - Bioinformatics and computational biology infastructure for the Julia programming language.
+* __[BioJulia](https://github.com/BioJulia)__ - Bioinformatics and computational biology infastructure for the Julia programming language. [ [web](https://biojulia.net) ]
 
 ## Data Tools
 
