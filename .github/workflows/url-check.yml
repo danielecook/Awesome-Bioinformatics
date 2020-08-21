@@ -1,4 +1,4 @@
-name: URL Check
+name: 🔗 Check URLs
 on:
   push:
     branches: [master]
