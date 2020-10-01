@@ -32,6 +32,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
 - [Database Access](#database-access)
+- [Structural Biology](#structural-biology)
+  - [Crystallography](#crystallography)
 - [Resources](#resources)
   - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
   - [Bioinformatics on GitHub](#bioinformatics-on-github)
@@ -226,6 +228,13 @@ The following tools can be used to visualize genomic data or for constructing cu
 ## Database Access
 
 - [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
+
+## Structural Biology
+
+### Crystallography
+
+- **[cctbx](https://github.com/cctbx/cctbx_project)** - The Computational Crystallography Toolbox (cctbx) is being developed as the open source component of the PHENIX system.
+- **[PHENIX](http://phenix-online.org)** - Python-based Hierarchical ENvironment for Integrated Xtallography (PHENIX) is a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
 
 ## Resources
 
