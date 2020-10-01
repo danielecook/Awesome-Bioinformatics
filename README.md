@@ -18,6 +18,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Sequence Processing](#sequence-processing)
   - [Data Analysis](#data-analysis)
   - [Sequence Alignment](#sequence-alignment)
+    - [Pairwise](#pairwise)
+    - [Multiple Sequence Alignment](#multiple-sequence-alignment)
   - [Variant Calling](#variant-calling)
     - [Structural variant callers](#structural-variant-callers)
   - [BAM File Utilities](#bam-file-utilities)
@@ -127,9 +129,17 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 ### Sequence Alignment
 
+#### Pairwise
+
 - **[Bowtie 2](https://github.com/BenLangmead/bowtie2)** - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. [ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/22388286) | [web](http://bowtie-bio.sourceforge.net/bowtie2) ]
 - **[BWA](https://github.com/lh3/bwa)** - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
 - **[WFA](https://github.com/smarco/WFA)** - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment [ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
+- **[Parasail](https://github.com/jeffdaily/parasail)** - SIMD C library for global, semi-global, and local pairwise sequence alignments [ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
+- **[MUMmer](https://github.com/mummer4/mummer)** -  A system for rapidly aligning entire genomes, whether in complete or draft form. [ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
+
+#### Multiple Sequence Alignment
+
+- **[POA](https://github.com/ljdursi/poapy)** - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. [ [paper-2002](https://academic.oup.com/bioinformatics/article/18/3/452/236691) ]
 
 ### Variant Calling
 
