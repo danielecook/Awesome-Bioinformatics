@@ -20,6 +20,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Sequence Alignment](#sequence-alignment)
     - [Pairwise](#pairwise)
     - [Multiple Sequence Alignment](#multiple-sequence-alignment)
+  - [Quantification](#quantification)
   - [Variant Calling](#variant-calling)
     - [Structural variant callers](#structural-variant-callers)
   - [BAM File Utilities](#bam-file-utilities)
