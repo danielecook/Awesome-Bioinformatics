@@ -265,6 +265,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 ### Bioinformatics on GitHub
 
 - [Awesome-alternative-splicing](https://github.com/HussainAther/awesome-alternative-splicing) - List of resources on alternative splicing including software, databases, and other tools..
+- [Bioinformatics Notebook](https://github.com/rnnh/bioinfo-notebook) - Scripts for bioinformatics pipelines, with quick start guides for programs and video demonstrations.
 
 ### Sequencing
 
