@@ -20,6 +20,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Sequence Alignment](#sequence-alignment)
     - [Pairwise](#pairwise)
     - [Multiple Sequence Alignment](#multiple-sequence-alignment)
+    - [Clustering](#clustering)
   - [Quantification](#quantification)
   - [Variant Calling](#variant-calling)
     - [Structural variant callers](#structural-variant-callers)
@@ -143,6 +144,9 @@ The following items allow for scalable genomic analysis by introducing specializ
 #### Multiple Sequence Alignment
 
 - **[POA](https://github.com/ljdursi/poapy)** - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. [ [paper-2002](https://academic.oup.com/bioinformatics/article/18/3/452/236691) ]
+
+#### Clustering
+- **[MMseqs2](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. [ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
 
 ### Quantification
 
