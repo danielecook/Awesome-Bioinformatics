@@ -32,6 +32,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Python Modules](#python-modules)
     - [Data](#data)
     - [Tools](#tools)
+  - [Assembly](#assembly)
+  - [Annotation](#annotation)
 - [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
@@ -220,6 +222,14 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[pyfaidx](https://github.com/mdshw5/pyfaidx)** - Pythonic access to FASTA files.
 - **[pysam](https://github.com/pysam-developers/pysam)** - Python wrapper for [samtools](https://github.com/samtools/samtools). [ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
 - **[pyVCF](https://github.com/jamescasbon/PyVCF)** - A VCF Parser for Python. [ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
+
+### Assembly
+- **[SPAdes](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
+- **[SKESA](https://github.com/ncbi/SKESA)** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
+
+### Annotation
+- **[Prokka](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
+- **[Bakta](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
 ## Visualization
 
