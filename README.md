@@ -112,7 +112,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)** - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ [web](https://bcbio-nextgen.readthedocs.io) ]
 - **[R-Peridot](https://github.com/pentalpha/r-peridot)** - Customizable pipeline for differential expression analysis with an intuitive GUI. [ [web](http://www.bioinformatics-brazil.org/r-peridot) ]
 - **[Knowseq](https://github.com/CasedUgr/KnowSeq)** - Pipeline for transcriptomic gene expression processing, analysis and prediction with an intelligent automatic report. [ [paper-2021](https://www.sciencedirect.com/science/article/pii/S0010482521001815) | [web](https://bioconductor.org/packages/release/bioc/html/KnowSeq.html) ]
-- 
+
 ### Sequence Processing
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
