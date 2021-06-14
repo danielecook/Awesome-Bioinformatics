@@ -35,7 +35,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Assembly](#assembly)
   - [Annotation](#annotation)
 - [Long-read sequencing](#long-read-sequencing)
-  - [Assembly](#long-read-assembly) 
+  - [Long-read Assembly](#long-read-assembly)
 - [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
