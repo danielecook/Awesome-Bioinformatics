@@ -34,6 +34,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
     - [Tools](#tools)
   - [Assembly](#assembly)
   - [Annotation](#annotation)
+- [Long-read sequencing](#long-read-sequencing)
+  - [Assembly](#long-read-assembly) 
 - [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
@@ -233,6 +235,15 @@ The following items allow for scalable genomic analysis by introducing specializ
 ### Annotation
 - **[Prokka](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
 - **[Bakta](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
+
+## Long-read sequencing
+
+### Long-read Assembly
+
+- **[canu](https://github.com/marbl/canu)** - A single molecule sequence assembler for genomes large and small.
+- **[flye](https://github.com/fenderglass/Flye)** - De novo assembler for single molecule sequencing reads using repeat graphs. 
+- **[hifiasm](https://github.com/chhylp123/hifiasm)** - A haplotype-resolved assembler for accurate Hifi reads.
+- **[wtdbg2](https://github.com/ruanjue/wtdbg2)** -  A fuzzy Bruijn graph approach to long noisy reads assembly
 
 ## Visualization
 
