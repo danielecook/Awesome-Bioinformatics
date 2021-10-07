@@ -92,6 +92,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[grabix](https://github.com/arq5x/grabix)** - A wee tool for random access into BGZF files.
 - **[gsort](https://github.com/brentp/gsort)** - Sort genomic files according to a specified order.
 - **[tabix](https://github.com/samtools/tabix)** - Table file index. [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21208982) ]
+- **[visidata](https://www.visidata.org/)** - Interactive and very fast multitool for tabular data within the command line.
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
 - **[zindex](https://github.com/mattgodbolt/zindex)** - Create an index on a compressed text file.
 
