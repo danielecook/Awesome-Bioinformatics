@@ -32,6 +32,10 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Python Modules](#python-modules)
     - [Data](#data)
     - [Tools](#tools)
+  - [Assembly](#assembly)
+  - [Annotation](#annotation)
+- [Long-read sequencing](#long-read-sequencing)
+  - [Long-read Assembly](#long-read-assembly)
 - [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
@@ -66,6 +70,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[Rust-Bio](https://github.com/rust-bio/rust-bio)** - Rust implementations of algorithms and data structures useful for bioinformatics. [ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
 - **[SeqAn](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
 - **[(Poly)merase](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
+- **[Biocaml](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
 
 ## Data Tools
 
@@ -109,6 +114,7 @@ Package suites gather software packages and installation tools for specific lang
 
 - **[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)** - A list of pipeline resources.
 - **[Bactopia](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. [ [web](https://bactopia.github.io/) ]
+- **[Bacannot](https://github.com/fmalmeida/bacannot)** - A generic but comprehensive bacterial annotation pipeline, built with Nextflow, with nice graphical options for investigating results. [ [web](https://bacannot.readthedocs.io/en/latest/?badge=latest) ]
 - **[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)** - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ [web](https://bcbio-nextgen.readthedocs.io) ]
 - **[R-Peridot](https://github.com/pentalpha/r-peridot)** - Customizable pipeline for differential expression analysis with an intuitive GUI. [ [web](http://www.bioinformatics-brazil.org/r-peridot) ]
 - **[MpGAP](https://github.com/fmalmeida/mpgap)** - A generic multi-platform (Illumina, Pacbio and ONT) genome assembly pipeline, built with Nextflow. [ [web](https://mpgap.readthedocs.io/en/latest/?badge=latest) ]
@@ -193,6 +199,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 ### GFF BED File Utilities
 
+- **[AGAT](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. [ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
 - **[gffutils](https://github.com/daler/gffutils)** - GFF and GTF file manipulation and interconversion. [ [web](http://daler.github.io/gffutils) ]
 - **[BEDOPS](https://bedops.readthedocs.io/en/latest/index.html)** - The fast, highly scalable and easily-parallelizable genome analysis toolkit. [ [paper-2012](https://academic.oup.com/bioinformatics/article/28/14/1919/218826) ]
 - **[Bedtools2](https://github.com/arq5x/bedtools2)** - A Swiss Army knife for genome arithmetic. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20110278) | [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25199790) | [web](https://bedtools.readthedocs.io) ]
@@ -223,6 +230,23 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[pyfaidx](https://github.com/mdshw5/pyfaidx)** - Pythonic access to FASTA files.
 - **[pysam](https://github.com/pysam-developers/pysam)** - Python wrapper for [samtools](https://github.com/samtools/samtools). [ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
 - **[pyVCF](https://github.com/jamescasbon/PyVCF)** - A VCF Parser for Python. [ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
+
+### Assembly
+- **[SPAdes](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
+- **[SKESA](https://github.com/ncbi/SKESA)** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
+
+### Annotation
+- **[Prokka](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
+- **[Bakta](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
+
+## Long-read sequencing
+
+### Long-read Assembly
+
+- **[canu](https://github.com/marbl/canu)** - A single molecule sequence assembler for genomes large and small.
+- **[flye](https://github.com/fenderglass/Flye)** - De novo assembler for single molecule sequencing reads using repeat graphs. 
+- **[hifiasm](https://github.com/chhylp123/hifiasm)** - A haplotype-resolved assembler for accurate Hifi reads.
+- **[wtdbg2](https://github.com/ruanjue/wtdbg2)** -  A fuzzy Bruijn graph approach to long noisy reads assembly
 
 ## Visualization
 
