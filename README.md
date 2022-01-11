@@ -10,6 +10,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 - [Package suites](#package-suites)
 - [Data Tools](#data-tools)
+  - [Downloading](#downloading)
+  - [Compressing](#compressing)
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
 - [Next Generation Sequencing](#next-generation-sequencing)
