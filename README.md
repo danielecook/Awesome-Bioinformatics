@@ -342,6 +342,10 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Bits of DNA](https://liorpachter.wordpress.com/) - Dr. Lior Pachter writes review and commentary on computational biology.
 - [it is NOT junk](http://www.michaeleisen.org/blog/) - Dr. Michael Eisen writes "a blog about genomes, DNA, evolution, open science, baseball and other important things"
 
+### Books
+
+- [Genomics in Azure](https://www.manning.com/books/genomics-in-azure) - A book that teaches bioinformaticians how to create cloud-based platforms for biotech, pharmaceutical, and life sciences workloads.
+
 ### Miscellaneous
 
 - [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers/) - Expertly curated genomics papers to get up to speed on genomics, RNA-seq, statistics (used in genomics), software development, and more.
