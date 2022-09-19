@@ -364,6 +364,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [BioinformaticsGRX](https://bioinformaticsgrx.es/) - A community of bioinformaticians based in Granada, Spain
 - [Comunidad de Desarolladores de Software en Bioinformática](https://comunidadbioinfo.github.io/) - A community of bioinformaticians centered in Latin America
 - [COMBINE](https://combine.org.au/) - An Austrialian group for bioinformatics students
+- [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) - A platform for computational biology in the Nordics.
 
 ## License
 
