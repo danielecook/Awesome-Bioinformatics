@@ -311,7 +311,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ### Bioinformatics on GitHub
 
-- [Awesome-alternative-splicing](https://github.com/HussainAther/awesome-alternative-splicing) - List of resources on alternative splicing including software, databases, and other tools..
+- [Awesome-alternative-splicing](https://github.com/HussainAther/awesome-alternative-splicing) - List of resources on alternative splicing including software, databases, and other tools.
+- [Awesome AI-based Protein Design](https://github.com/opendilab/awesome-AI-based-protein-design) - A collection of research papers for AI-based protein design.
 
 ### Sequencing
 
