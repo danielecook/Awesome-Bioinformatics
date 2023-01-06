@@ -99,6 +99,7 @@ Package suites gather software packages and installation tools for specific lang
 - **GNU Parallel** - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU Parallel. [ [web](http://www.gnu.org/software/parallel) ]
 - **[grabix](https://github.com/arq5x/grabix)** - A wee tool for random access into BGZF files.
 - **[gsort](https://github.com/brentp/gsort)** - Sort genomic files according to a specified order.
+- **[shournal](https://github.com/tycho-kirchner/shournal)** - Record shell-commands and used files. Easily tell which command created a file. [ [paper-2020](https://doi.org/10.1101/2020.08.03.232843) ]
 - **[tabix](https://github.com/samtools/tabix)** - Table file index. [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21208982) ]
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
 - **[zindex](https://github.com/mattgodbolt/zindex)** - Create an index on a compressed text file.
