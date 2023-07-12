@@ -70,6 +70,8 @@ Package suites gather software packages and installation tools for specific lang
 
 - **[Bioconda](https://github.com/bioconda)** - A channel for the [conda package manager](http://conda.pydata.org/docs/intro.html) specializing in bioinformatics software. Includes a repository with 3000+ ready-to-install (with `conda install`) bioinformatics packages. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29967506) | [web](https://bioconda.github.io) ]
 
+- **[Debian Med](https://www.debian.org/devel/debian-med/)** - Effort inside Debian to package Free Software in bioinformatics and medicine.  The packages are available in all Debian derivatives (like Ubuntu, Mint etc.)  [list of bioinformatics applications](https://blends.debian.org/med/tasks/bio) [list of bioinformatics development tools](https://blends.debian.org/med/tasks/bio-dev) [ [paper-2011](https://www.researchgate.net/publication/245022429_Debian_Med_-_Integrated_software_environment_for_all_medical_purposes_based_on_Debian_GNULinux) | [web](https://blends.debian.org/med/tasks) ]
+
 - **[BioJulia](https://github.com/BioJulia)** - Bioinformatics and computational biology infastructure for the Julia programming language. [ [web](https://biojulia.net) ]
 - **[Rust-Bio](https://github.com/rust-bio/rust-bio)** - Rust implementations of algorithms and data structures useful for bioinformatics. [ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
 - **[SeqAn](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
