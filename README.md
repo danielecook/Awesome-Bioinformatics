@@ -14,6 +14,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Compressing](#compressing)
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
+  - [Python Modules](#python-modules)
 - [Next Generation Sequencing](#next-generation-sequencing)
   - [Workflow Managers](#workflow-managers)
   - [Pipelines](#pipelines)
@@ -103,6 +104,9 @@ Package suites gather software packages and installation tools for specific lang
 - **[tabix](https://github.com/samtools/tabix)** - Table file index. [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21208982) ]
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
 - **[zindex](https://github.com/mattgodbolt/zindex)** - Create an index on a compressed text file.
+
+### Python Modules
+- **[proteinflow](https://github.com/adaptyvbio/ProteinFlow)** - A processing pipeline for using PDB data in AI model training
 
 ## Next Generation Sequencing
 
