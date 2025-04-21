@@ -322,6 +322,10 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Next-Generation Sequencing Technologies - Elaine Mardis (2014)](https://youtu.be/6Is3W7JkFp8) [1:34:35] - Excellent (technical) overview of next-generation and third-generation sequencing technologies, along with some applications in cancer research.
 - [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - List of ~100 papers on various sequencing technologies and assays ranging from transcription to transposable element discovery.
 - [For all you seq... (PDF)](http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf) (3456x5471) - Massive infographic by Illumina on illustrating how many sequencing techniques work. Techniques cover protein-protein interactions, RNA transcription, RNA-protein interactions, RNA low-level detection, RNA modifications, RNA structure, DNA rearrangements and markers, DNA low-level detection, epigenetics, and DNA-protein interactions. References included.
+- [scSemiProfiler](https://github.com/mcgilldinglab/scSemiProfiler) - Deep generative AI tool for cost-effective single-cell data generation.  
+  **Functions:**  
+  1. **Single-cell-level bulk deconvolution** – Generates single-cell gene expression profiles from bulk RNA-seq data using reference single-cell data from a similar tissue.
+  2. **Semi-profiling** – Use deep generative AI to generate single-cell data for a cohort with 1/10 to 1/3 of the original cost. This function takes as input cheaper bulk RNA-seq data from all cohort samples and single-cell RNA-seq data from a subset of representative samples selected by the active learning module. 
 
 ### RNA-Seq
 
