@@ -175,6 +175,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 - **[Cufflinks](https://github.com/cole-trapnell-lab/cufflinks)** - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. [ [paper-2010](https://www.nature.com/articles/nbt.1621) ]
 - **[RSEM](https://github.com/deweylab/RSEM)** - A software package for estimating gene and isoform expression levels from RNA-Seq data. [ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
+- **[PCNE](https://github.com/riccabolla/PCNE)** - A software to estimate plasmid copy numbers from assembled genomes, using paired-end short reads
 
 ### Variant Calling
 
