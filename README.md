@@ -237,12 +237,14 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 #### Tools
 
+- **[ChemInformant](https://github.com/HzaCode/ChemInformant)** - High-throughput cheminformatics toolkit for large-batch retrieval/curation and descriptor & substructure pipelines; CLI+API; RDKit/DeepChem compatible. [ [paper-2025](https://joss.theoj.org/papers/10.21105/joss.08341) | [web](https://hezhiang.com/cheminformant_real.html) ]
 - **[cyvcf](https://github.com/arq5x/cyvcf)** - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) using Cython for speed.
 - **[cyvcf2](https://github.com/brentp/cyvcf2)** - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28165109) | [web](https://brentp.github.io/cyvcf2) ]
 - **[pyBedTools](https://github.com/daler/pybedtools)** - Python wrapper for [bedtools](https://github.com/arq5x/bedtools). [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21949271) | [web](http://daler.github.io/pybedtools) ]
 - **[pyfaidx](https://github.com/mdshw5/pyfaidx)** - Pythonic access to FASTA files.
 - **[pysam](https://github.com/pysam-developers/pysam)** - Python wrapper for [samtools](https://github.com/samtools/samtools). [ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
 - **[pyVCF](https://github.com/jamescasbon/PyVCF)** - A VCF Parser for Python. [ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
+
 
 ### Assembly
 - **[SPAdes](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
