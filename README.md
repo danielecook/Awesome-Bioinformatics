@@ -120,6 +120,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[SeqWare](https://github.com/SeqWare/seqware)** - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/21210981) | [web](https://seqware.github.io) ]
 - **[Snakemake](https://bitbucket.org/snakemake)** - A workflow management system in Python that aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29788404) | [web](https://snakemake.readthedocs.io) ]
 - **[Workflow Descriptor Language](https://github.com/broadinstitute/wdl)** - Workflow standard developed by the Broad. [ [web](https://software.broadinstitute.org/wdl) ]
+- **[Platforma](https://github.com/milaboratory/platforma)** - No-code bioinformatics platform for NGS data and downstream analysis for TCR/BCR, single-cell, and RNA-seq | [web](platforma.bio)
 
 ### Pipelines
 
