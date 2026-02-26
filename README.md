@@ -99,6 +99,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[easy_qsub](https://github.com/shenwei356/easy_qsub)** - Easily submitting PBS jobs with script template. Multiple input files supported.
 - **GNU Parallel** - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU Parallel. [ [web](http://www.gnu.org/software/parallel) ]
 - **[grabix](https://github.com/arq5x/grabix)** - A wee tool for random access into BGZF files.
+- **[grepq](https://github.com/Rbfinch/grepq)** - Fast FASTQ filtering by matching reads against one or more regex patterns.
 - **[gsort](https://github.com/brentp/gsort)** - Sort genomic files according to a specified order.
 - **[tabix](https://github.com/samtools/tabix)** - Table file index. [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21208982) ]
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
