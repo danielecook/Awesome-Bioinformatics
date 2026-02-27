@@ -144,6 +144,7 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 - **[seqmagick](https://github.com/fhcrc/seqmagick)** - file format conversion in Biopython in a convenient way. [ [web](http://seqmagick.readthedocs.io) ]
 - **[Seqtk](https://github.com/lh3/seqtk)** - Toolkit for processing sequences in FASTA/Q formats.
 - **[smof](https://github.com/incertae-sedis/smof)** - UNIX-style FASTA manipulation tools.
+- **[CodonTable](https://codontable.org/)** - Online codon table and sequence analysis toolkit supporting DNA/RNA translation, codon usage statistics, GC content calculation, and multiple genetic codes.
 
 ### Data Analysis
 
@@ -361,6 +362,9 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project.
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
+
+
+
 
 ## Online networking groups
 
