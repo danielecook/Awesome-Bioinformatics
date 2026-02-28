@@ -297,6 +297,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ## Database Access
 
+- **[BGPT](https://bgpt.pro/mcp)** - Search scientific papers with structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies. Available as an [MCP server](https://github.com/connerlambden/bgpt-mcp) for AI-assisted literature review. [ [web](https://bgpt.pro/mcp) ]
 - [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
 
 ## Resources
