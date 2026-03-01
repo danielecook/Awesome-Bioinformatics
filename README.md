@@ -297,7 +297,9 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ## Database Access
 
+- [Encyclopedia of Life (EOL) API](https://eol.org/docs/what-is-eol/open-api) - RESTful API providing programmatic access to species pages, taxonomy, traits, and media for over 2.7 million taxa aggregated from hundreds of biodiversity databases.
 - [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
+- [Movebank Data Repository](https://www.movebank.org/cms/movebank-main) - Open repository of animal movement data from GPS and other tracking technologies, with a public API and over 3 billion location records across thousands of species.
 
 ## Resources
 
