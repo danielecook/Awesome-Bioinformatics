@@ -6,6 +6,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for bioinformatics workflow orchestration, automated genomics pipeline management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 - [Package suites](#package-suites)
