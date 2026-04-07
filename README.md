@@ -228,6 +228,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[SnpEff](https://github.com/pcingola/SnpEff)** - Genetic variant annotation and effect prediction toolbox. [ [paper-2012](https://www.tandfonline.com/doi/full/10.4161/fly.19695) | [web](https://pcingola.github.io/SnpEff) ]
 - **[Ensembl VEP](https://anaconda.org/bioconda/ensembl-vep)** - The VEP determines the effect of your variants (SNPs, insertions, deletions, CNVs or structural variants) on genes, transcripts, and protein sequence, as well as regulatory regions. [ [paper-2016](https://doi.org/10.1186/s13059-016-0974-4) | [web](http://www.ensembl.org/info/docs/tools/vep/index.html) ]
 - **[ANNOVAR](https://annovar.openbioinformatics.org/en/latest/)** - An annotation tool for genetic variants, predicting effects on genes, transcripts, and regulatory elements, which allows for custom database integration. [ [paper-2010](https://doi.org/10.1093/nar/gkq603) | [web](https://annovar.openbioinformatics.org/en/latest/) ]
+- **[Genomic Agent Discovery](https://github.com/HelixGenomics/Genomic-Agent-Discovery)** - Open-source multi-agent AI system that analyzes raw DNA files (23andMe, AncestryDNA, VCF) across 12 databases (ClinVar, GWAS, AlphaMissense, CPIC, gnomAD, etc.) with coordinated AI agents via MCP protocol. MIT licensed.
 
 
 ### Python Modules
