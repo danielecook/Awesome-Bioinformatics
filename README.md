@@ -145,6 +145,9 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 - **[seqmagick](https://github.com/fhcrc/seqmagick)** - file format conversion in Biopython in a convenient way. [ [web](http://seqmagick.readthedocs.io) ]
 - **[Seqtk](https://github.com/lh3/seqtk)** - Toolkit for processing sequences in FASTA/Q formats.
 - **[smof](https://github.com/incertae-sedis/smof)** - UNIX-style FASTA manipulation tools.
+- **[Trimmomatic](https://github.com/usadellab/Trimmomatic)** - A flexible trimmer for Illumina sequence data, supporting both paired-end and single-end data. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/24695404) | [web](http://www.usadellab.org/cms/?page=trimmomatic) ]
+- **[fastp](https://github.com/OpenGene/fastp)** - An ultrafast all-in-one FASTQ preprocessor (QC, adaptor trimming, quality filtering, and more). [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30423086) | [web](https://github.com/OpenGene/fastp) ]
+- **[Cutadapt](https://github.com/marcelm/cutadapt)** - Finds and removes adapter sequences, primers, poly-A tails, and other unwanted sequences. [ [paper-2011](https://doi.org/10.14806/ej.17.1.200) | [web](https://cutadapt.readthedocs.io) ]
 
 ### Data Analysis
 
@@ -164,6 +167,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[Parasail](https://github.com/jeffdaily/parasail)** - SIMD C library for global, semi-global, and local pairwise sequence alignments [ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
 - **[MUMmer](https://github.com/mummer4/mummer)** -  A system for rapidly aligning entire genomes, whether in complete or draft form. [ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
 - **[DIAMOND](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. [ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
+- **[minimap2](https://github.com/lh3/minimap2)** - A versatile pairwise aligner for genomic and spliced nucleotide sequences, recommended over BWA-MEM for PacBio and Nanopore reads. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29750242) | [web](https://lh3.github.io/minimap2) ]
 
 #### Multiple Sequence Alignment
 
@@ -202,6 +206,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[SAMstat](https://github.com/TimoLassmann/samstat)** - Displaying sequence statistics for next-generation sequencing. [ [paper-2010](https://academic.oup.com/bioinformatics/article/27/1/130/201972) | [web](http://samstat.sourceforge.net) ]
 - **[Somalier](https://github.com/brentp/somalier)** - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. [ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
 - **[Telseq](https://github.com/zd1/telseq)** - Telseq is a tool for estimating telomere length from whole genome sequence data. [ [paper-2014](https://academic.oup.com/nar/article/42/9/e75/1249448) ]
+- **[samtools](https://github.com/samtools/samtools)** - Suite of tools for interacting with high-throughput sequencing data in SAM/BAM/CRAM format. [ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19505943) | [web](http://www.htslib.org) ]
 
 ### VCF File Utilities
 
@@ -260,7 +265,9 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[Bakta](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
 ## Long-read sequencing
-
+- **[NanoPlot](https://github.com/wdecoster/NanoPlot)** - Plotting tool for long read sequencing data and alignments. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29547981) ]
+- **[Medaka](https://github.com/nanoporetech/medaka)** - Sequence correction and variant calling tool for Oxford Nanopore data.
+- 
 ### Long-read Assembly
 
 - **[canu](https://github.com/marbl/canu)** - A single molecule sequence assembler for genomes large and small.
@@ -374,6 +381,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [BioinformaticsGRX](https://bioinformaticsgrx.es/) - A community of bioinformaticians based in Granada, Spain
 - [Comunidad de Desarolladores de Software en Bioinformática](https://comunidadbioinfo.github.io/) - A community of bioinformaticians centered in Latin America
 - [COMBINE](https://combine.org.au/) - An Austrialian group for bioinformatics students
+- **[Biostars](https://www.biostars.org/)** - One of the most active Q&A forums for bioinformatics questions and discussion.
+- **[SEQanswers](http://seqanswers.com/)** - Community forum focused on next-generation sequencing analysis and tools.
 
 ## License
 
