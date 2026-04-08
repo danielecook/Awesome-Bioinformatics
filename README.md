@@ -152,6 +152,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 - **[Hail](https://github.com/hail-is/hail)** - Scalable genomic analysis.
 - **[GLNexus](https://github.com/dnanexus-rnd/GLnexus)** - Scalable gVCF merging and joint variant calling for population sequencing projects. [ [paper-2018](https://www.biorxiv.org/content/10.1101/343970v1.abstract) ]
+- **[DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis)** - Interactive personal genome analysis toolkit using Python and Claude Code. Parses raw genotyping data from consumer services (23andMe, AncestryDNA, etc.) and analyzes SNPs across 17 categories including health risks, pharmacogenomics, ancestry, and nutrition.
 
 ### Sequence Alignment
 
