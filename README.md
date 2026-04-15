@@ -338,6 +338,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - Extensive list on Wikipedia of RNA-seq bioinformatics tools needed in analysis, ranging from all parts of an analysis pipeline from quality control, alignment, splice analysis, and visualizations.
 - [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - [@crazyhottommy](https://github.com/crazyhottommy)'s notes on various steps and considerations when doing RNA-seq analysis.
 
+- [scAgent](https://github.com/deepmind11/scAgent) - An AI agent for single-cell RNA-seq analysis through natural language — no programming required. Covers QC, normalization, HVG selection, PCA, batch integration (Harmony, scVI, BBKNN, Scanorama), clustering, cell type annotation (CellTypist), differential expression (pseudobulk DESeq2/edgeR), and pathway enrichment (GSEA). Benchmarked at 85.7% on SC-Bench (394 verifiable problems) vs 52.8% top baseline. Includes W3C PROV-O provenance tracking and auto-generated reproducibility packages.
+
 ### ChIP-Seq
 
 - [ChIP-seq analysis notes from Tommy Tang](https://github.com/crazyhottommy/ChIP-seq-analysis) - Resources on ChIP-seq data which include papers, methods, links to software, and analysis.
