@@ -248,6 +248,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[pysam](https://github.com/pysam-developers/pysam)** - Python wrapper for [samtools](https://github.com/samtools/samtools). [ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
 - **[pyVCF](https://github.com/jamescasbon/PyVCF)** - A VCF Parser for Python. [ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
 - **[Scanpy](https://github.com/scverse/scanpy)** - Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. [ [paper-2018](https://doi.org/10.1186/s13059-017-1382-0) | [web](https://scanpy.readthedocs.io) ]
+- **[PharmaCore](https://github.com/reacherwu/PharmaCore)** - Apple Silicon-native AI drug discovery platform with de novo molecular generation and drug repurposing using sparse protein language models (ESM-2, ChemBERTa). Fully local inference. [ [models](https://huggingface.co/collections/stephenjun8192/pharmacore-sparse-models-69e5842a51579e4b12d42f30) ]
 
 ### Assembly
 - **[SPAdes](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
