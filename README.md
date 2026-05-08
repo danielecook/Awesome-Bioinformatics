@@ -360,6 +360,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [#!/perl/bioinfo](https://bioinfoperl.blogspot.com) - The Computational and Structural Biology group at EEAD-CSIC writes, in Spanish and English, about ideas and code for plant genomics, computational and structural biology problems.
 
 ### Miscellaneous
+- [Agent2Research: Bioinformatics and Single-Cell Analysis Tools](https://agent2research.com/topics/bioinformatics-single-cell-tools?utm_source=github&utm_medium=backlink&utm_campaign=github_pr_202605) - Curated guide to biomedical research tools, with use cases, limitations, and alternatives for bioinformatics and single-cell workflows.
 
 - [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers/) - Expertly curated genomics papers to get up to speed on genomics, RNA-seq, statistics (used in genomics), software development, and more.
 - [A New Online Computational Biology Curriculum](https://doi.org/10.1371/journal.pcbi.1003662) - "This article introduces a catalog of several hundred free video courses of potential interest to those wishing to expand their knowledge of bioinformatics and computational biology. The courses are organized into eleven subject areas modeled on university departments and are accompanied by commentary and career advice."
