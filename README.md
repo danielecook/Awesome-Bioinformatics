@@ -130,6 +130,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)** - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ [web](https://bcbio-nextgen.readthedocs.io) ]
 - **[R-Peridot](https://github.com/pentalpha/r-peridot)** - Customizable pipeline for differential expression analysis with an intuitive GUI. [ [web](http://www.bioinformatics-brazil.org/r-peridot) ]
 - **[ngs-preprocess](https://github.com/fmalmeida/ngs-preprocess)** - A pipeline for preprocessing short and long sequencing reads, built with Nextflow. [ [web](https://ngs-preprocess.readthedocs.io/en/latest/?badge=latest) ]
+- **[bindsight](https://github.com/mikhaeelatefrizk/bindsight)** - End-to-end pipeline that takes RNA-seq counts and outputs ranked de novo protein binder candidates against differentially expressed surface antigens, with full PROV-O / RO-Crate provenance back to the patient cohort. CPU-laptop-friendly discovery half (pydeseq2 → SURFY → SURFACE-Bind → AlphaFoldDB); GPU half (RFdiffusion + ProteinMPNN + Boltz-2) is templated to free Colab. [ [doi](https://doi.org/10.5281/zenodo.20121496) | [web](https://bindsight.streamlit.app) ]
 
 ### Sequence Processing
 
