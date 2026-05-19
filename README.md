@@ -209,6 +209,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[vcfanno](https://github.com/brentp/vcfanno)** - Annotate a VCF with other VCFs/BEDs/tabixed files. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27250555) ]
 - **[vcflib](https://github.com/vcflib/vcflib)** - A C++ library for parsing and manipulating VCF files.
 - **[vcftools](https://github.com/vcftools/vcftools)** - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst). [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21653522) ]
+- **[picovcf](https://github.com/aprilweilab/picovcf/)** - Simple single-header C++ library for VCF parsing; supports tabix indexes. [ [paper-2025](https://doi.org/10.1101/2025.02.05.636549) ]
 
 ### GFF BED File Utilities
 
