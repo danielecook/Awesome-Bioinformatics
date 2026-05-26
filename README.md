@@ -366,6 +366,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project.
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
+- - [C. elegans Digit Swarm](https://celegansgoogleiosimulator.netlify.app/) - An interactive, browser-based bio-simulation blending nematode behavioral science with swarm intelligence and phenotypic marking. Co-authored using Gemini Canvas.
 
 ## Online networking groups
 
