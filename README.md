@@ -104,6 +104,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[tabix](https://github.com/samtools/tabix)** - Table file index. [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21208982) ]
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
 - **[zindex](https://github.com/mattgodbolt/zindex)** - Create an index on a compressed text file.
+- **[TenDNA DNA Converter](https://github.com/milaza/dna-raw-data-converter-23andme-myheritage-ancestry)** - Open-source utility for converting raw DNA data files between 23andMe, AncestryDNA, MyHeritage, and FamilyTreeDNA formats.
 
 ## Next Generation Sequencing
 
