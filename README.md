@@ -76,6 +76,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[(Poly)merase](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 - **[Biocaml](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
 - **[Biojava](https://github.com/biojava/biojava)** - Java framework for processing biological data.
+- **[K-Lean](https://github.com/Heime-Jorgen/kenosian-lean4)** - 64 machine-verified contracts for computational biology. Lean 4, sorry-free. Covers MichaelisMenten, HillEquation, SIR epidemic models, eGFR, mRNA half-life, and more.
 
 ## Data Tools
 
@@ -378,3 +379,4 @@ The following tools can be used to visualize genomic data or for constructing cu
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
