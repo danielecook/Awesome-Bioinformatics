@@ -6,6 +6,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [Package suites](#package-suites)
@@ -76,14 +77,17 @@ Package suites gather software packages and installation tools for specific lang
 - **[(Poly)merase](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 - **[Biocaml](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
 - **[Biojava](https://github.com/biojava/biojava)** - Java framework for processing biological data.
+- **[NCBI C++ Toolkit](https://www.ncbi.nlm.nih.gov/IEB/ToolBox/CPP_DOC/)** - Cross-platform C++ libraries and applications for working with molecular biology data and NCBI services.
 
 ## Data Tools
 
 ### Downloading
+
 - **[GGD](https://github.com/gogetdata/ggd-cli)** - Go Get Data; A command line interface for obtaining genomic data. [ [web](https://gogetdata.github.io) ]
 - **[SRA-Explorer](https://github.com/ewels/sra-explorer)** - Easily get SRA download links and other information. [ [web](https://sra-explorer.info) ]
 
 ### Compressing
+
 - **[Genozip](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). [ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
 
 ## Data Processing
@@ -162,7 +166,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[BWA-FastAlign](https://github.com/zzhofict/BWA-FastAlign)** - BWA-MEM drop-in replacement: 2-3x faster, 2-5x cheaper, 100% identical output on standard CPUs. [ [paper-2026](https://dl.acm.org/doi/10.1145/3774934.3786421) ]
 - **[WFA](https://github.com/smarco/WFA)** - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment [ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
 - **[Parasail](https://github.com/jeffdaily/parasail)** - SIMD C library for global, semi-global, and local pairwise sequence alignments [ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
-- **[MUMmer](https://github.com/mummer4/mummer)** -  A system for rapidly aligning entire genomes, whether in complete or draft form. [ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
+- **[MUMmer](https://github.com/mummer4/mummer)** - A system for rapidly aligning entire genomes, whether in complete or draft form. [ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
 - **[DIAMOND](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. [ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
 
 #### Multiple Sequence Alignment
@@ -185,6 +189,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[GATK](https://github.com/broadgsa/gatk)** - Variant Discovery in High-Throughput Sequencing Data. [ [web](https://software.broadinstitute.org/gatk) ]
 - **[Octopus](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. [ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
 - **[bcftools](https://github.com/samtools/bcftools)** - samtools/bcftools are a suite of tools for manipulating NGS data and can be used to call variants. [ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19505943) | [web](http://htslib.org) ]
+
 #### Structural variant callers
 
 - **[Delly](https://github.com/dellytools/delly)** - Structural variant discovery by integrated paired-end and split-read analysis. [ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/22962449) ]
@@ -229,7 +234,6 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[Ensembl VEP](https://anaconda.org/bioconda/ensembl-vep)** - The VEP determines the effect of your variants (SNPs, insertions, deletions, CNVs or structural variants) on genes, transcripts, and protein sequence, as well as regulatory regions. [ [paper-2016](https://doi.org/10.1186/s13059-016-0974-4) | [web](http://www.ensembl.org/info/docs/tools/vep/index.html) ]
 - **[ANNOVAR](https://annovar.openbioinformatics.org/en/latest/)** - An annotation tool for genetic variants, predicting effects on genes, transcripts, and regulatory elements, which allows for custom database integration. [ [paper-2010](https://doi.org/10.1093/nar/gkq603) | [web](https://annovar.openbioinformatics.org/en/latest/) ]
 
-
 ### Python Modules
 
 #### Data
@@ -250,12 +254,14 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[Scanpy](https://github.com/scverse/scanpy)** - Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. [ [paper-2018](https://doi.org/10.1186/s13059-017-1382-0) | [web](https://scanpy.readthedocs.io) ]
 
 ### Assembly
+
 - **[SPAdes](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
 - **[SKESA](https://github.com/ncbi/SKESA)** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
 - **[Minimap2](https://github.com/lh3/minimap2)** - Minimap2 is an pairwise aligner for genomic and spliced nucleotide sequences. It can perform the assembly-to-assembly alignment, and works with gzip'd FASTQ, FASTA formats. It also finds overlaps between long-reads.
 - **[D-GENIES](https://dgenies.toulouse.inra.fr/)** - **D**ot plot large **Gen**omes in an **I**nteractive, **E**fficient and **S**imple way. It is an online tool designed to support large genome, compare two genomes, and you can interact with the dot plot to improve the visualisation. It can also be used for extension of minimap2 by uploading the output generated in PAF(Pairwise mApping Format) or MAF(Multiple Alignment File) alignment files to D-GENIES
 
 ### Annotation
+
 - **[Prokka](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
 - **[Bakta](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
@@ -264,9 +270,9 @@ The following items allow for scalable genomic analysis by introducing specializ
 ### Long-read Assembly
 
 - **[canu](https://github.com/marbl/canu)** - A single molecule sequence assembler for genomes large and small.
-- **[flye](https://github.com/fenderglass/Flye)** - De novo assembler for single molecule sequencing reads using repeat graphs. 
+- **[flye](https://github.com/fenderglass/Flye)** - De novo assembler for single molecule sequencing reads using repeat graphs.
 - **[hifiasm](https://github.com/chhylp123/hifiasm)** - A haplotype-resolved assembler for accurate Hifi reads.
-- **[wtdbg2](https://github.com/ruanjue/wtdbg2)** -  A fuzzy Bruijn graph approach to long noisy reads assembly
+- **[wtdbg2](https://github.com/ruanjue/wtdbg2)** - A fuzzy Bruijn graph approach to long noisy reads assembly
 
 ## Visualization
 
