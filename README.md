@@ -300,6 +300,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 ## Database Access
 
 - [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
+- [HPO Explorer](https://hpoexplorer.com) - Browser for the complete Human Phenotype Ontology (~19,800 terms), with a graph-based term explorer, virtualized full-catalog search, and a clinical profile analyzer that computes phenotype similarity, differential diagnosis, and gene prioritization from a list of HPO terms or a pasted clinical note.
 
 ## Resources
 
