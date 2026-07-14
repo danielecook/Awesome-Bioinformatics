@@ -47,6 +47,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Bioinformatics on GitHub](#bioinformatics-on-github)
   - [Sequencing](#sequencing)
   - [RNA-Seq](#rna-seq)
+  - [Spatial Transcriptomics](#spatial-transcriptomics)
   - [ChIP-Seq](#chip-seq)
   - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
   - [Blogs](#blogs)
@@ -366,6 +367,16 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project.
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
+
+
+## Spatial Transcriptomics
+
+Tools for analyzing spatially resolved transcriptomics and predicting gene expression from histology.
+
+- **[DeepSpot](https://github.com/ratschlab/DeepSpot)** - Deep learning model for predicting spatial transcriptomics from H&E histopathology images (spot and single-cell resolution). [ [paper-2025](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) ]
+- **[DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell)** - Predicts virtual single-cell spatial transcriptomics from H&E images using spot-level supervision. [ [paper-2025](https://openreview.net/forum?id=ofCkwXQKaz) ]
+- **[DeepSpot-M](https://github.com/ratschlab/DeepSpotM)** - Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology. [ [paper-2026](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) ]
+- **[AESTETIK](https://github.com/ratschlab/aestetik)** - Autoencoder for spatial transcriptomics representation learning using topology and histology image knowledge. [ [paper-2026](https://doi.org/10.1093/bioinformatics/btag316) ]
 
 ## Online networking groups
 
