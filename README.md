@@ -96,6 +96,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[CSVKit](https://github.com/wireservice/csvkit)** - Utilities for working with CSV/Tab-delimited files. [ [web](https://csvkit.readthedocs.io/en/latest) ]
 - **[csvtk](https://github.com/shenwei356/csvtk)** - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit. [ [web](https://bioinf.shenwei.me/csvtk) ]
 - **[datamash](https://git.savannah.gnu.org/gitweb/?p=datamash.git)** - Data transformations and statistics. [ [web](http://www.gnu.org/software/datamash) ]
+- **[dnafile](https://github.com/AndreySoloviev/dnafile)** - Reads consumer DNA raw exports (23andMe, AncestryDNA, MyHeritage, FamilyTreeDNA, LivingDNA); detects service and array, counts markers, checks rsID coverage and normalises to one layout.
 - **[easy_qsub](https://github.com/shenwei356/easy_qsub)** - Easily submitting PBS jobs with script template. Multiple input files supported.
 - **GNU Parallel** - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU Parallel. [ [web](http://www.gnu.org/software/parallel) ]
 - **[grabix](https://github.com/arq5x/grabix)** - A wee tool for random access into BGZF files.
