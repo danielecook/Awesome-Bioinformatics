@@ -136,6 +136,7 @@ Package suites gather software packages and installation tools for specific lang
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
 - **[AfterQC](https://github.com/OpenGene/AfterQC)** - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28361673) ]
+- **[DotMatch](https://github.com/dnncha/dotmatch)** - Deterministic known-target short-DNA assignment for CRISPR guides, barcodes, primers, panels, and whitelist-style target sets.
 - **[FastQC](https://github.com/s-andrews/FastQC)** - A quality control tool for high throughput sequence data. [ [web](http://www.bioinformatics.babraham.ac.uk/projects/fastqc) ]
 - **[Fastqp](https://github.com/mdshw5/fastqp)** - FASTQ and SAM quality control using Python.
 - **[Fastx Tookit](https://github.com/agordon/fastx_toolkit)** - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities. [ [web](http://hannonlab.cshl.edu/fastx_toolkit) ]
