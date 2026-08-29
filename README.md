@@ -41,6 +41,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 - [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
+  - [Microbiome Data](#microbiome-data)
 - [Database Access](#database-access)
 - [Resources](#resources)
   - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
@@ -296,6 +297,10 @@ The following tools can be used to visualize genomic data or for constructing cu
 - **J-Circos** - A Java application for doing interactive work with circos plots. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25540184) | [web](http://www.australianprostatecentre.org/research/software/jcircos) ]
 - **[rCircos](https://bitbucket.org/henryhzhang/rcircos/src/master/)** - R package for circular plots. [ [paper-2013](https://pubmed.ncbi.nlm.nih.gov/23937229) | [web](http://watson.nci.nih.gov/cran_mirror/web/packages/RCircos/index.html) ]
 - **[fujiplot](https://github.com/mkanai/fujiplot)** - A circos representation of multiple GWAS results. [ [paper-2018](https://www.nature.com/articles/s41588-018-0047-6) ]
+
+### Microbiome Data
+
+- **[biom-viewer](https://github.com/yarintm/biom-viewer)** - Native macOS viewer for sparse `.biom` (Biological Observation Matrix) tables. Opens instantly regardless of file size by densifying only the cells on screen, instead of the whole matrix like `biom convert`/pandas/Excel. Includes metadata views, stacked filters, per-row/column summary stats, and cross-field search. [ [web](https://github.com/yarintm/biom-viewer/releases/latest) ]
 
 ## Database Access
 
