@@ -41,6 +41,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 - [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
+  - [GWAS Plots](#gwas-plots)
 - [Database Access](#database-access)
 - [Resources](#resources)
   - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
@@ -296,6 +297,12 @@ The following tools can be used to visualize genomic data or for constructing cu
 - **J-Circos** - A Java application for doing interactive work with circos plots. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25540184) | [web](http://www.australianprostatecentre.org/research/software/jcircos) ]
 - **[rCircos](https://bitbucket.org/henryhzhang/rcircos/src/master/)** - R package for circular plots. [ [paper-2013](https://pubmed.ncbi.nlm.nih.gov/23937229) | [web](http://watson.nci.nih.gov/cran_mirror/web/packages/RCircos/index.html) ]
 - **[fujiplot](https://github.com/mkanai/fujiplot)** - A circos representation of multiple GWAS results. [ [paper-2018](https://www.nature.com/articles/s41588-018-0047-6) ]
+
+### GWAS Plots
+
+Tools for plotting genome-wide association study results: Manhattan, QQ, and regional association plots with linkage disequilibrium and gene annotation.
+
+- **[pyLocusZoom](https://github.com/michael-denyer/pyLocusZoom)** - Python library for publication-ready regional association plots with LD coloring, gene tracks, and recombination overlays, plus Manhattan, QQ, Miami, eQTL, fine-mapping, PheWAS, and forest plots. Built-in dog and cat reference data and Ensembl annotation for any species. [ [web](https://pypi.org/project/pylocuszoom/) ]
 
 ## Database Access
 
