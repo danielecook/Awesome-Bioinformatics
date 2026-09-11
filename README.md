@@ -46,7 +46,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
   - [Bioinformatics on GitHub](#bioinformatics-on-github)
   - [Sequencing](#sequencing)
-  - [RNA-Seq](#rna-seq)199
+  - [RNA-Seq](#rna-seq)
   - [ChIP-Seq](#chip-seq)
   - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
   - [Blogs](#blogs)
