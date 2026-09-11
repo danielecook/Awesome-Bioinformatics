@@ -46,7 +46,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
   - [Bioinformatics on GitHub](#bioinformatics-on-github)
   - [Sequencing](#sequencing)
-  - [RNA-Seq](#rna-seq)
+  - [RNA-Seq](#rna-seq)199
   - [ChIP-Seq](#chip-seq)
   - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
   - [Blogs](#blogs)
@@ -242,6 +242,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 - **[cyvcf](https://github.com/arq5x/cyvcf)** - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) using Cython for speed.
 - **[cyvcf2](https://github.com/brentp/cyvcf2)** - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28165109) | [web](https://brentp.github.io/cyvcf2) ]
+- **[OpenOmicsBench](https://github.com/vxxqv/openomicsbench)** - A set of small, documented bulk RNA-seq benchmark datasets for testing analysis pipelines and teaching differential-expression workflows.
 - **[polars-bio](https://github.com/biodatageeks/polars-bio)** - Python library for blazing-fast genomic interval operations and genomic file formats I/O on Polars DataFrames [ [paper-2025](https://doi.org/10.1093/bioinformatics/btaf640) | [ [web](https://biodatageeks.org/polars-bio/) ] ]
 - **[pyBedTools](https://github.com/daler/pybedtools)** - Python wrapper for [bedtools](https://github.com/arq5x/bedtools). [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21949271) | [web](http://daler.github.io/pybedtools) ]
 - **[pyfaidx](https://github.com/mdshw5/pyfaidx)** - Pythonic access to FASTA files.
