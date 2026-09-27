@@ -258,6 +258,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 ### Annotation
 - **[Prokka](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
 - **[Bakta](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
+- **[CpG-Island-Predictor](https://github.com/lorenzoorsini3/CpG-Island-Predictor)** - A machine learning tool for predicting CpG islands in vertebrate genomes using a stacked Random Forest / Gradient Boosting ensemble trained on sequence-based features (mono-, di-, and trinucleotide counts), without relying on GC content or position information.
 
 ## Long-read sequencing
 
