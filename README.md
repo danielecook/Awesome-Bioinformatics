@@ -314,6 +314,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) - Dr. Keith Bradnam "thought it might be instructive to ask a simple series of questions to a bunch of notable bioinformaticians to assess their feelings on the current state of bioinformatics research, and maybe get any tips they have about what has been useful to their bioinformatics careers."
 - [Open Source Society University on Bioinformatics](https://github.com/ossu/bioinformatics) - Solid path for those of you who want to complete a Bioinformatics course on your own time, for free, with courses from the best universities in the World.
 - [Rosalind](http://rosalind.info/) - Rosalind is a platform for learning bioinformatics through problem solving.
+- [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/read-the-book) - Textbook by Phillip Compeau and Pavel Pevzner with its first five chapters free to read online.
 - [A guide for the lonely bioinformatician](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) - This guide is aimed at bioinformaticians, and is meant to guide them towards better career development.
 - [A brief history of bioinformatics](https://doi.org/10.1093/bib/bby063)
 
@@ -350,6 +351,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Genomics, Big Data and Medicine Seminar Series](https://www.youtube.com/playlist?list=PLqLDR0CTP9_pboZCk6gR9Zn4kW7h9XWJI) - "Our seminars are dedicated to the critical intersection of GBM, delving into 'bleeding edge' technology and approaches that will deeply shape the future."
 - [Rafael Irizarry's Channel](https://www.youtube.com/user/RafalabChannel/videos) - Dr. Rafael Irizarry's lectures and academic talks on statistics for genomics.
 - [NIH VideoCasting and Podcasting](https://www.youtube.com/user/nihvcast) - "NIH VideoCast broadcasts seminars, conferences and meetings live to a world-wide audience over the Internet as a real-time streaming video." Not exclusively genomics and bioinformatics video but many great talks on domain specific use of bioinformatics and genomics.
+- [Bioinformatics Algorithms Lecture Videos](https://www.bioinformaticsalgorithms.org/lecture-videos) - Free lecture videos accompanying the Bioinformatics Algorithms textbook by Phillip Compeau and Pavel Pevzner.
 
 ### Blogs
 
@@ -366,6 +368,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project.
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
+- [Biological Modeling](https://biologicalmodeling.org/) - Free online course on modeling biological systems, covering Turing patterns, transcription factor network motifs, bacterial chemotaxis, the coronavirus spike protein, and white blood cell image classification.
 
 ## Online networking groups
 
