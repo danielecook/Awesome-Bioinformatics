@@ -242,6 +242,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 - **[cyvcf](https://github.com/arq5x/cyvcf)** - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) using Cython for speed.
 - **[cyvcf2](https://github.com/brentp/cyvcf2)** - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28165109) | [web](https://brentp.github.io/cyvcf2) ]
+- **[JAMMA](https://github.com/michael-denyer/jamma)** - Drop-in Python and C reimplementation of GEMMA for linear mixed-model GWAS; same CLI and file formats, up to 43x faster, validated for numerical equivalence. [ [web](https://pypi.org/project/jamma/) ]
 - **[polars-bio](https://github.com/biodatageeks/polars-bio)** - Python library for blazing-fast genomic interval operations and genomic file formats I/O on Polars DataFrames [ [paper-2025](https://doi.org/10.1093/bioinformatics/btaf640) | [ [web](https://biodatageeks.org/polars-bio/) ] ]
 - **[pyBedTools](https://github.com/daler/pybedtools)** - Python wrapper for [bedtools](https://github.com/arq5x/bedtools). [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21949271) | [web](http://daler.github.io/pybedtools) ]
 - **[pyfaidx](https://github.com/mdshw5/pyfaidx)** - Pythonic access to FASTA files.
