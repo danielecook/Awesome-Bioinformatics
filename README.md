@@ -14,6 +14,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Compressing](#compressing)
 - [Data Processing](#data-processing)
   - [Command Line Utilities](#command-line-utilities)
+- [Primer Design](#primer-design)
 - [Next Generation Sequencing](#next-generation-sequencing)
   - [Workflow Managers](#workflow-managers)
   - [Pipelines](#pipelines)
@@ -104,6 +105,15 @@ Package suites gather software packages and installation tools for specific lang
 - **[tabix](https://github.com/samtools/tabix)** - Table file index. [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21208982) ]
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
 - **[zindex](https://github.com/mattgodbolt/zindex)** - Create an index on a compressed text file.
+
+## Primer Design
+
+Tools for designing and validating PCR, RT-PCR and qPCR primers — melting temperature, GC content, hairpin/dimer checks, and in-silico specificity screening.
+
+- **[Primer3](https://github.com/primer3-org/primer3)** - The most widely used primer design engine: picks PCR primers and hydrolysis probes from sequence input under constraints on Tm, GC, size and specificity. [ [web](https://primer3.ut.ee) ]
+- **[Primer-BLAST](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)** - NCBI web tool that runs Primer3-style design and checks each candidate pair against a chosen template database for off-target amplification.
+- **[PrimerBank](https://pga.mgh.harvard.edu/primerbank/)** - Searchable database of qPCR primer pairs for human and mouse genes, with performance data from experimental validation.
+- **[VigyanLLM](https://github.com/vigyanllm0/vigyanpilot)** - Browser-based primer design with a 24-step validation pipeline (Tm, GC, hairpin/dimer, off-target screening), plus BLAST, multiple sequence alignment and molecular docking tools; free tier with no login for analysis. [ [web](https://www.vigyanllm.in) ]
 
 ## Next Generation Sequencing
 
