@@ -301,6 +301,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 - [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
 
+- [RabbitSoftware](https://github.com/DNA-Blockchain/Helloworld) - Local-first Python research software for querying public biomedical sources, including PubMed and ClinicalTrials.gov, and building source-linked research records. Includes signed peer-network records and code-provenance/audit tooling.
+
 ## Resources
 
 ### Becoming a Bioinformatician
