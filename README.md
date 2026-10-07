@@ -299,6 +299,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ## Database Access
 
+- [biocli](https://github.com/youngfly93/biocli) - Agent-friendly bioinformatics CLI for cross-database query, download, and workflow preparation with structured JSON output.
 - [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
 
 ## Resources
