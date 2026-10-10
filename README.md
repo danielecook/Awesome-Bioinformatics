@@ -130,6 +130,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)** - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ [web](https://bcbio-nextgen.readthedocs.io) ]
 - **[R-Peridot](https://github.com/pentalpha/r-peridot)** - Customizable pipeline for differential expression analysis with an intuitive GUI. [ [web](http://www.bioinformatics-brazil.org/r-peridot) ]
 - **[ngs-preprocess](https://github.com/fmalmeida/ngs-preprocess)** - A pipeline for preprocessing short and long sequencing reads, built with Nextflow. [ [web](https://ngs-preprocess.readthedocs.io/en/latest/?badge=latest) ]
+- **[RAPID](https://github.com/beantkapoor786/RAPID)** - A unified Shiny application that takes you from raw amplicon data (16S and ITS) to ASV and taxonomy tables with DADA2, and onward to ecology visualizations, PERMANOVA, and ANCOM-BC2 analyses. [ [paper](https://doi.org/10.1093/bioinformatics/btag688) ]
 
 ### Sequence Processing
 
