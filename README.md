@@ -144,6 +144,7 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 - **[SeqKit](https://github.com/shenwei356/seqkit)** - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27706213) | [web](https://bioinf.shenwei.me/seqkit) ]
 - **[seqmagick](https://github.com/fhcrc/seqmagick)** - file format conversion in Biopython in a convenient way. [ [web](http://seqmagick.readthedocs.io) ]
 - **[Seqtk](https://github.com/lh3/seqtk)** - Toolkit for processing sequences in FASTA/Q formats.
+- **[SeqBench](https://seqbench.com/)** - Browser-based toolbox for everyday DNA, RNA, and protein sequence tasks.
 - **[smof](https://github.com/incertae-sedis/smof)** - UNIX-style FASTA manipulation tools.
 
 ### Data Analysis
