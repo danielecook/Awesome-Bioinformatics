@@ -85,6 +85,7 @@ Package suites gather software packages and installation tools for specific lang
 
 ### Compressing
 - **[Genozip](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). [ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
+- **[VNX-DNA](https://github.com/vishnuselvam101-hash/VSnexustechnologies-)** - Open-source DNA data-storage codec (Python with C kernels); results are simulated.
 
 ## Data Processing
 
