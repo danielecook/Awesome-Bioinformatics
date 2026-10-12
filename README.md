@@ -9,6 +9,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 ## Table of Contents
 
 - [Package suites](#package-suites)
+- [Protein Function & Drug Discovery](#protein-function--drug-discovery)
 - [Data Tools](#data-tools)
   - [Downloading](#downloading)
   - [Compressing](#compressing)
@@ -76,6 +77,10 @@ Package suites gather software packages and installation tools for specific lang
 - **[(Poly)merase](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 - **[Biocaml](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
 - **[Biojava](https://github.com/biojava/biojava)** - Java framework for processing biological data.
+
+## Protein Function & Drug Discovery
+
+* __[ProteinFP](https://github.com/wowcowdowjones/proteinFP2)__ - Give it a UniProt ID; get back active sites, druggable pockets, EC classification, GO terms, PPI partners, therapy modality recommendations, and evolved drug candidate molecules, for any protein, any organism. [ __[PyPI](https://pypi.org/project/proteinfp/)__ ]
 
 ## Data Tools
 
