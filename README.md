@@ -62,6 +62,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 Package suites gather software packages and installation tools for specific languages or platforms. We have some for bioinformatics software.
 
+- **[AutoZyme](https://github.com/ElliotXie/autozyme)** - Autonomous agentic framework that produces correctness-preserving CPU speedups for bioinformatics software (e.g. Scanpy, Seurat) via a profile, optimize, benchmark, keep-or-revert loop. [ [paper-2026](https://www.biorxiv.org/content/10.64898/2026.06.12.731250v1) | [web](https://autozyme.com) ]
+
 - **[Bioperl](https://github.com/bioperl/bioperl-live)** - International association of users & developers of open source Perl tools for bioinformatics, genomics and life sciences. [ [paper-2002](https://doi.org/10.1101%2Fgr.361602) | [web](https://bioperl.org) ]
 
 - **[Bioconductor](https://github.com/Bioconductor)** - A plethora of tools for analysis and comprehension of high-throughput genomic data, including 1500+ software packages. [ [paper-2004](https://link.springer.com/article/10.1186/gb-2004-5-10-r80) | [web](https://www.bioconductor.org) ]
