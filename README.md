@@ -369,6 +369,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
 - [Biological Modeling](https://biologicalmodeling.org/) - Free online course on modeling biological systems, covering Turing patterns, transcription factor network motifs, bacterial chemotaxis, the coronavirus spike protein, and white blood cell image classification.
+- [Toolome](https://toolome.bio) - Curated, hand-verified directory of AI tools for biology (single-cell, spatial omics, protein design, genomics, drug discovery).
 
 ## Online networking groups
 
