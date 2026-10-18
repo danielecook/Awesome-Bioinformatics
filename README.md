@@ -301,6 +301,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 - [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
 
+- **[SciRouter](https://scirouter.ai)** - Unified API gateway for scientific computing models. One API key to access protein folding (ESMFold), protein function prediction (BioReason-Pro), molecular property calculation (RDKit), ADME/Tox prediction, variant effect analysis, MHC binding prediction, and molecular docking (AutoDock Vina). Includes a Python SDK (`pip install scirouter`) and MCP server for AI agent integration. Free tier available.
 ## Resources
 
 ### Becoming a Bioinformatician
