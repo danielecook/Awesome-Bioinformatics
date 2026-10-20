@@ -41,6 +41,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 - [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
+  - [Interactive Reports](#interactive-reports)
 - [Database Access](#database-access)
 - [Resources](#resources)
   - [Becoming a Bioinformatician](#becoming-a-bioinformatician)
@@ -296,6 +297,12 @@ The following tools can be used to visualize genomic data or for constructing cu
 - **J-Circos** - A Java application for doing interactive work with circos plots. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25540184) | [web](http://www.australianprostatecentre.org/research/software/jcircos) ]
 - **[rCircos](https://bitbucket.org/henryhzhang/rcircos/src/master/)** - R package for circular plots. [ [paper-2013](https://pubmed.ncbi.nlm.nih.gov/23937229) | [web](http://watson.nci.nih.gov/cran_mirror/web/packages/RCircos/index.html) ]
 - **[fujiplot](https://github.com/mkanai/fujiplot)** - A circos representation of multiple GWAS results. [ [paper-2018](https://www.nature.com/articles/s41588-018-0047-6) ]
+
+### Interactive Reports
+
+The following tools turn tabular results, e.g. variant calls or differential expression tables, into interactive reports that can be explored and shared with nothing more than a web browser.
+
+- **[Datavzrd](https://github.com/datavzrd/datavzrd)** - Creates interactive, self-contained HTML reports from CSV, TSV, JSON or Parquet tables via a simple YAML configuration. Columns can be shown as heatmaps or plots, link out to external resources and tables can be linked to each other. [ [paper-2025](https://pubmed.ncbi.nlm.nih.gov/40694543) | [web](https://datavzrd.github.io) ]
 
 ## Database Access
 
