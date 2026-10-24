@@ -300,6 +300,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 ## Database Access
 
 - [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
+- **[Pushbuild genomics change feeds](https://pushbuild.com/apis/clinvar-reclassifications.html)** - JSON APIs that track what changed: monthly ClinVar reclassifications since 2025 (e.g. VUS to likely pathogenic, filterable by gene), daily ClinGen dosage sensitivity changes since 2022, and GenCC + ClinGen gene-disease validity with a change log. Built from public-domain and CC0 data; free to try. [ [dosage](https://pushbuild.com/apis/clingen-dosage-changes.html) | [validity](https://pushbuild.com/apis/gene-disease-validity.html) ]
 
 ## Resources
 
