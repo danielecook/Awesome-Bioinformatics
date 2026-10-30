@@ -287,6 +287,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - **[pileup.js](https://github.com/hammerlab/pileup.js)** - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27153605) ]
 - **[scribl](https://github.com/chmille4/Scribl)** - JavaScript library for drawing canvas-based gene diagrams. [ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/23172864) | [web](http://chmille4.github.io/Scribl) ]
 - **Lucid Align** - A modern sequence alignment viewer. [ [web](https://lucidalign.com) ]
+- **[Yoda Studio](https://github.com/keremuysal/yoda-studio)** - Biomolecular 3D Structure Viewer, Alignment and Biophysical Analysis Platform. [ [web](https://github.com/keremuysal/yoda-studio) ]
 
 ### Circos Related
 
