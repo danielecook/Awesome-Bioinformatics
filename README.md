@@ -192,6 +192,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[manta](https://github.com/Illumina/manta)** - Structural variant and indel caller for mapped sequencing data. [ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/26647377) ]
 - **[gridss](https://github.com/PapenfussLab/gridss)** - GRIDSS: the Genomic Rearrangement IDentification Software Suite. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29097403) ]
 - **[smoove](https://github.com/brentp/smoove)** - structural variant calling and genotyping with existing tools, but,smoothly.
+- - **[hgt-site](https://github.com/iraajgangavaram/hgt-site)** - Calls candidate horizontal gene transfer sites from a host alignment and Kraken2 read classifications, testing each site against chance chimeras. [ [docs](https://iraajgangavaram.github.io/hgt-site/) ]
 
 ### BAM File Utilities
 
