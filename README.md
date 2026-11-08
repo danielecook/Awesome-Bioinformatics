@@ -248,7 +248,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[pysam](https://github.com/pysam-developers/pysam)** - Python wrapper for [samtools](https://github.com/samtools/samtools). [ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
 - **[pyVCF](https://github.com/jamescasbon/PyVCF)** - A VCF Parser for Python. [ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
 - **[Scanpy](https://github.com/scverse/scanpy)** - Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. [ [paper-2018](https://doi.org/10.1186/s13059-017-1382-0) | [web](https://scanpy.readthedocs.io) ]
-- **[spatial-continuum](https://github.com/Lukecele/spatial-continuum-oncology)** - Biophysical reaction-diffusion transport solver, 3D perivascular sanctuary digital twin, and Composite Resistance Index clinical stratification engine for targeted lung adenocarcinoma. [ [paper-2026](https://doi.org/10.21203/rs.3.rs-11530312/v1) | [web](https://lukecele.github.io/spatial-continuum-oncology/) ]
+- **[spatial-continuum](https://github.com/Lukecele/spatial-continuum-oncology)** - Biophysical reaction-diffusion transport solver, 3D perivascular sanctuary digital twin, and in silico cohort stratification engine (RUO) for targeted lung oncology. [ [paper-2026](https://doi.org/10.21203/rs.3.rs-11530312/v1) | [web](https://lukecele.github.io/spatial-continuum-oncology/) ]
 
 ### Assembly
 - **[SPAdes](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
