@@ -7,8 +7,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: technote-space/toc-generator@v2
+      - uses: actions/checkout@v4
+      - uses: technote-space/toc-generator@v4
         with:
           TOC_TITLE: "## Table of Contents"
