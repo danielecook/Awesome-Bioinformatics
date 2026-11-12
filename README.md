@@ -145,6 +145,7 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 - **[seqmagick](https://github.com/fhcrc/seqmagick)** - file format conversion in Biopython in a convenient way. [ [web](http://seqmagick.readthedocs.io) ]
 - **[Seqtk](https://github.com/lh3/seqtk)** - Toolkit for processing sequences in FASTA/Q formats.
 - **[smof](https://github.com/incertae-sedis/smof)** - UNIX-style FASTA manipulation tools.
+- **[SeqChem](https://seqandchem.com/bio/)** - Web-based FASTA/FASTQ conversion, GC content, reverse complement and DNA translation. [ [web](https://seqandchem.com/bio/) ]
 
 ### Data Analysis
 
