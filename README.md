@@ -75,7 +75,8 @@ Package suites gather software packages and installation tools for specific lang
 - **[SeqAn](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
 - **[(Poly)merase](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 - **[Biocaml](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
-- **[Biojava](https://github.com/biojava/biojava)** - Java framework for processing biological data.
+- **[Biojava](https://github.com/biojava/biojava)** - Open-source Java framework for processing biological data, including sequence analysis, protein structure, and alignment, with parsers for common bioinformatics file formats.
+- **[NCBI C++ Toolkit](https://github.com/ncbi/ncbi-cxx-toolkit-public)** - C++ libraries and tools for building bioinformatics applications and accessing NCBI data.
 
 ## Data Tools
 
