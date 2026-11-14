@@ -105,6 +105,12 @@ Package suites gather software packages and installation tools for specific lang
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
 - **[zindex](https://github.com/mattgodbolt/zindex)** - Create an index on a compressed text file.
 
+## Metabolomics
+
+Open-source tools for metabolomics data processing, statistical analysis, visualization, and biological interpretation.
+
+* [Rodin](https://github.com/BM-Boris/rodin) - An open-source Python toolkit for metabolomics and other feature-based omics data analysis, including preprocessing, statistical testing, machine learning, interactive visualization, and pathway analysis. [paper-2025](https://doi.org/10.1093/bioadv/vbaf088).
+
 ## Next Generation Sequencing
 
 ### Workflow Managers
