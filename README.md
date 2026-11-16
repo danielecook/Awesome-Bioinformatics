@@ -328,6 +328,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Next-Generation Sequencing Technologies - Elaine Mardis (2014)](https://youtu.be/6Is3W7JkFp8) [1:34:35] - Excellent (technical) overview of next-generation and third-generation sequencing technologies, along with some applications in cancer research.
 - [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - List of ~100 papers on various sequencing technologies and assays ranging from transcription to transposable element discovery.
 - [For all you seq... (PDF)](http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf) (3456x5471) - Massive infographic by Illumina on illustrating how many sequencing techniques work. Techniques cover protein-protein interactions, RNA transcription, RNA-protein interactions, RNA low-level detection, RNA modifications, RNA structure, DNA rearrangements and markers, DNA low-level detection, epigenetics, and DNA-protein interactions. References included.
+- [Sample QC cheat sheet for sequencing (PDF, Zenodo)](https://doi.org/10.5281/zenodo.24215723) - One-page DNA and RNA sample targets (amount, purity ratios, integrity, buffer) to check before sending samples to a sequencing provider.
 
 ### RNA-Seq
 
@@ -338,6 +339,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39] - Dr. Lior Pachter shares his stories from the supplement for well-known RNA-seq analysis software CuffDiff and [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) and explains some of their methodologies.
 - [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - Extensive list on Wikipedia of RNA-seq bioinformatics tools needed in analysis, ranging from all parts of an analysis pipeline from quality control, alignment, splice analysis, and visualizations.
 - [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - [@crazyhottommy](https://github.com/crazyhottommy)'s notes on various steps and considerations when doing RNA-seq analysis.
+- [How to read your RNA-seq results report](https://seqready.com/rna-seq-results-report) - Beginner-friendly walk-through of a provider's DESeq2 report: baseMean, log2 fold change, padj, and the volcano and PCA plots.
 
 ### ChIP-Seq
 
