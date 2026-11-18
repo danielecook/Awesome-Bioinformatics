@@ -353,6 +353,9 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [NIH VideoCasting and Podcasting](https://www.youtube.com/user/nihvcast) - "NIH VideoCast broadcasts seminars, conferences and meetings live to a world-wide audience over the Internet as a real-time streaming video." Not exclusively genomics and bioinformatics video but many great talks on domain specific use of bioinformatics and genomics.
 - [Bioinformatics Algorithms Lecture Videos](https://www.bioinformaticsalgorithms.org/lecture-videos) - Free lecture videos accompanying the Bioinformatics Algorithms textbook by Phillip Compeau and Pavel Pevzner.
 
+### Literature
+* [Summarized.science – Bioinformatics](https://summarized.science/topics/bioinformatics/) - Monthly summaries and highlights of bioinformatics and computational biology literature.
+
 ### Blogs
 
 - [ACGT](http://www.acgt.me/) - Dr. Keith Bradnam writes about this "thoughts on biology, genomics, and the ongoing threat to humanity from the bogus use of bioinformatics acroynums."
@@ -369,6 +372,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
 - [Biological Modeling](https://biologicalmodeling.org/) - Free online course on modeling biological systems, covering Turing patterns, transcription factor network motifs, bacterial chemotaxis, the coronavirus spike protein, and white blood cell image classification.
+
 
 ## Online networking groups
 
