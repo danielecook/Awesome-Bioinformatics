@@ -240,6 +240,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 #### Tools
 
+- **[BioLabCalc](https://github.com/kabe89/BioLabCalc)** - Offline computational molecular biology suite, benchtop assistant, and biophysical stoichiometry engine. [ [web](https://kabe89.github.io/BioLabCalc/) ]
 - **[cyvcf](https://github.com/arq5x/cyvcf)** - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) using Cython for speed.
 - **[cyvcf2](https://github.com/brentp/cyvcf2)** - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28165109) | [web](https://brentp.github.io/cyvcf2) ]
 - **[polars-bio](https://github.com/biodatageeks/polars-bio)** - Python library for blazing-fast genomic interval operations and genomic file formats I/O on Polars DataFrames [ [paper-2025](https://doi.org/10.1093/bioinformatics/btaf640) | [ [web](https://biodatageeks.org/polars-bio/) ] ]
