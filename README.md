@@ -287,6 +287,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - **[pileup.js](https://github.com/hammerlab/pileup.js)** - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27153605) ]
 - **[scribl](https://github.com/chmille4/Scribl)** - JavaScript library for drawing canvas-based gene diagrams. [ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/23172864) | [web](http://chmille4.github.io/Scribl) ]
 - **Lucid Align** - A modern sequence alignment viewer. [ [web](https://lucidalign.com) ]
+- **[msascope](https://github.com/dzulfikar08/irit)** - GPU-drawn desktop viewer for very large multiple sequence alignments (FASTA, Clustal, Stockholm); 100,000 sequences × 30,000 columns load in about 5 s and pan at 60 fps, with Newick tree ordering, motif search and identity sorting. Part of the irit toolkit. [ [web](https://dzulfikar08.github.io/irit/tools/msascope/) ]
 
 ### Circos Related
 
