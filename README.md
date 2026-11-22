@@ -47,6 +47,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Bioinformatics on GitHub](#bioinformatics-on-github)
   - [Sequencing](#sequencing)
   - [RNA-Seq](#rna-seq)
+  - [Spatial Transcriptomics](#spatial-transcriptomics)
   - [ChIP-Seq](#chip-seq)
   - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
   - [Blogs](#blogs)
@@ -369,6 +370,19 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
 - [Biological Modeling](https://biologicalmodeling.org/) - Free online course on modeling biological systems, covering Turing patterns, transcription factor network motifs, bacterial chemotaxis, the coronavirus spike protein, and white blood cell image classification.
+
+
+## Spatial Transcriptomics
+
+Tools for analyzing spatially resolved transcriptomics and predicting gene expression from histology.
+
+- **[DeepSpot](https://github.com/ratschlab/DeepSpot)** - Deep learning model for predicting spatial transcriptomics from H&E histopathology images (spot and single-cell resolution). [ [paper-2025](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) ]
+- **[DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell)** - Predicts virtual single-cell spatial transcriptomics from H&E images using spot-level supervision. [ [paper-2025](https://openreview.net/forum?id=ofCkwXQKaz) ]
+- **[DeepSpot-M](https://github.com/ratschlab/DeepSpotM)** - Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology. [ [paper-2026](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) ]
+- **[DeepSpot-M kidney (KPMP)](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis)** - Analysis code for virtual spatial transcriptomics from H&E in KPMP kidney biopsies, linking histopathology to molecular programs of kidney injury, repair, fibrosis and kidney function. [ [paper-2026](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) ]
+- **[KPMP virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas)** - DeepSpot-M predicted spatial gene expression (19,338 genes) for 1,534 H&E kidney biopsy slides from 476 KPMP participants, with clinical and histopathological annotations. [ [paper-2026](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) ]
+- **[KPMP Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics)** - DeepSpot-M predicted spatial gene expression (19,338 genes) for ~1.64M cells in 49 KPMP Xenium kidney sections, with the measured Xenium panel. [ [paper-2026](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) ]
+- **[AESTETIK](https://github.com/ratschlab/aestetik)** - Autoencoder for spatial transcriptomics representation learning using topology and histology image knowledge. [ [paper-2026](https://doi.org/10.1093/bioinformatics/btag316) ]
 
 ## Online networking groups
 
